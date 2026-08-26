@@ -7,3 +7,8 @@ data/db/*.db
 dist/
 build/
 .vercel
+.next/
+node_modules/
+*.tsbuildinfo
+*.bak
+.omc/state/

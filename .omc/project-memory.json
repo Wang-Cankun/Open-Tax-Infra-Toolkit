@@ -1,0 +1,279 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775696383694,
+  "projectRoot": "/Users/wang.13246/Documents/GitHub/gaap-tracker",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      },
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "next",
+        "version": "14.2.0",
+        "category": "fullstack"
+      },
+      {
+        "name": "react",
+        "version": "18.3.0",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "18.3.0",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "npm run build",
+    "testCommand": null,
+    "lintCommand": "npm run lint",
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": "type-based"
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "pages",
+      "public",
+      "scripts",
+      "src",
+      "tests"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "analysis": {
+      "path": "analysis",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775696383642,
+      "keyFiles": []
+    },
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 5,
+      "lastAccessed": 1775696383644,
+      "keyFiles": [
+        "__init__.py",
+        "cache.py",
+        "efts.py",
+        "pipeline.py",
+        "xbrl.py"
+      ]
+    },
+    "guides": {
+      "path": "guides",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775696383657,
+      "keyFiles": []
+    },
+    "pages": {
+      "path": "pages",
+      "purpose": "Page components",
+      "fileCount": 4,
+      "lastAccessed": 1775696383658,
+      "keyFiles": [
+        "1_topic832.py",
+        "2_asc815.py",
+        "3_restatements.py",
+        "4_about.py"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 0,
+      "lastAccessed": 1775696383658,
+      "keyFiles": []
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1775696383659,
+      "keyFiles": [
+        "refresh-data.ts"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1775696383659,
+      "keyFiles": []
+    },
+    "templates": {
+      "path": "templates",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775696383659,
+      "keyFiles": []
+    },
+    "tests": {
+      "path": "tests",
+      "purpose": "Test files",
+      "fileCount": 2,
+      "lastAccessed": 1775696383661,
+      "keyFiles": [
+        "__init__.py",
+        "test_pipeline.py"
+      ]
+    },
+    "public/data": {
+      "path": "public/data",
+      "purpose": "Data files",
+      "fileCount": 16,
+      "lastAccessed": 1775696383667,
+      "keyFiles": [
+        "asc-326.json",
+        "asc-350.json",
+        "asc-606.json"
+      ]
+    },
+    "src/app": {
+      "path": "src/app",
+      "purpose": "Application code",
+      "fileCount": 3,
+      "lastAccessed": 1775696383668,
+      "keyFiles": [
+        "globals.css",
+        "layout.tsx",
+        "page.tsx"
+      ]
+    },
+    "src/components": {
+      "path": "src/components",
+      "purpose": "UI components",
+      "fileCount": 4,
+      "lastAccessed": 1775696383668,
+      "keyFiles": [
+        "data-table.tsx",
+        "metric-card.tsx",
+        "nav.tsx"
+      ]
+    },
+    "src/lib": {
+      "path": "src/lib",
+      "purpose": "Library code",
+      "fileCount": 0,
+      "lastAccessed": 1775696383668,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/components/nav.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1775696753577,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 1,
+      "lastAccessed": 1775696449527,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1775696455084,
+      "type": "file"
+    },
+    {
+      "path": "src/lib/areas/types.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775696459428,
+      "type": "file"
+    },
+    {
+      "path": "src/lib/edgar/types.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775696459808,
+      "type": "file"
+    },
+    {
+      "path": "src/app/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775696460043,
+      "type": "file"
+    },
+    {
+      "path": "src/lib/areas/registry.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775696460135,
+      "type": "file"
+    },
+    {
+      "path": "src/lib/edgar/efts.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775696468370,
+      "type": "file"
+    },
+    {
+      "path": "src/app/federal-grants/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775696469019,
+      "type": "file"
+    },
+    {
+      "path": "gaap-tracker-overview.html",
+      "accessCount": 1,
+      "lastAccessed": 1775696558405,
+      "type": "file"
+    },
+    {
+      "path": "src/app/about/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775696666331,
+      "type": "file"
+    },
+    {
+      "path": "src/app/overview/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1775696733030,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

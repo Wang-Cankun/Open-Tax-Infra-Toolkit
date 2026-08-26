@@ -1,0 +1,2444 @@
+{
+  "refreshedAt": "2026-04-09T00:01:40.482Z",
+  "yearCounts": {
+    "2020": {
+      "Accounting fraud": 0,
+      "Restatement + material weakness": 0,
+      "SEC enforcement action": 8
+    },
+    "2021": {
+      "Accounting fraud": 0,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 9
+    },
+    "2022": {
+      "Accounting fraud": 6,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 7
+    },
+    "2023": {
+      "Accounting fraud": 9,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 5
+    },
+    "2024": {
+      "Accounting fraud": 0,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 8
+    },
+    "2025": {
+      "Accounting fraud": 10,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 28
+    },
+    "2026": {
+      "Accounting fraud": 2,
+      "Restatement + material weakness": 500,
+      "SEC enforcement action": 0
+    }
+  },
+  "recentFilings": [
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-11-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-09-21",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-05-04",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-08-03",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-02-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2022-11-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-05-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-05-09",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-05-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-02-08",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-05-09",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-08-02",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-11-01",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-55871"
+      ],
+      "companyName": "LINCOLN NATIONAL LIFE INSURANCE CO /IN/  (CIK 0000726865)",
+      "cik": "0000726865",
+      "formType": "",
+      "fileDate": "2023-05-23",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2023-05-22",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-34927",
+        "001-34926"
+      ],
+      "companyName": "Compass Diversified Holdings  (CODI, CODI-PA, CODI-PB, CODI-PC)  (CIK 0001345126)",
+      "cik": "0001345126",
+      "formType": "",
+      "fileDate": "2025-11-03",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-34927",
+        "001-34926"
+      ],
+      "companyName": "Compass Diversified Holdings  (CODI, CODI-PA, CODI-PB, CODI-PC)  (CIK 0001345126)",
+      "cik": "0001345126",
+      "formType": "",
+      "fileDate": "2025-12-08",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-07-31",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-05-08",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-10-30",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-05-08",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-02-06",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-02-06",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-10-30",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2025-07-31",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2025"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2026-02-12",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2026"
+    },
+    {
+      "accessionNumber": [
+        "001-06028"
+      ],
+      "companyName": "LINCOLN NATIONAL CORP  (LNC, LNC-PD)  (CIK 0000059558)",
+      "cik": "0000059558",
+      "formType": "",
+      "fileDate": "2026-02-12",
+      "periodEnding": "",
+      "category": "Accounting fraud",
+      "year": "2026"
+    },
+    {
+      "accessionNumber": [
+        "001-34392"
+      ],
+      "companyName": "PLUG POWER INC  (PLUG)  (CIK 0001093691)",
+      "cik": "0001093691",
+      "formType": "",
+      "fileDate": "2021-05-27",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38633"
+      ],
+      "companyName": "BM Technologies, Inc.  (BMTX, BMTX-WT)  (CIK 0001725872)",
+      "cik": "0001725872",
+      "formType": "",
+      "fileDate": "2021-07-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38113"
+      ],
+      "companyName": "BOSTON OMAHA Corp  (BOC)  (CIK 0001494582)",
+      "cik": "0001494582",
+      "formType": "",
+      "fileDate": "2021-05-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-37397"
+      ],
+      "companyName": "Rimini Street, Inc.  (RMNI)  (CIK 0001635282)",
+      "cik": "0001635282",
+      "formType": "",
+      "fileDate": "2021-05-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38202"
+      ],
+      "companyName": "Virgin Galactic Holdings, Inc  (SPCE)  (CIK 0001706946)",
+      "cik": "0001706946",
+      "formType": "",
+      "fileDate": "2021-05-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38531"
+      ],
+      "companyName": "Repay Holdings Corp  (RPAY)  (CIK 0001720592)",
+      "cik": "0001720592",
+      "formType": "",
+      "fileDate": "2021-05-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38202"
+      ],
+      "companyName": "Virgin Galactic Holdings, Inc  (SPCE)  (CIK 0001706946)",
+      "cik": "0001706946",
+      "formType": "",
+      "fileDate": "2021-04-30",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "000-24249"
+      ],
+      "companyName": "INTERPACE BIOSCIENCES, INC.  (IDXG)  (CIK 0001054102)",
+      "cik": "0001054102",
+      "formType": "",
+      "fileDate": "2021-08-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39817"
+      ],
+      "companyName": "Seven Oaks Acquisition Corp.  (CIK 0001828672)",
+      "cik": "0001828672",
+      "formType": "",
+      "fileDate": "2021-12-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38113"
+      ],
+      "companyName": "BOSTON OMAHA Corp  (BOC)  (CIK 0001494582)",
+      "cik": "0001494582",
+      "formType": "",
+      "fileDate": "2021-05-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40308"
+      ],
+      "companyName": "Finance of America Companies Inc.  (FOA, FOACW)  (CIK 0001828937)",
+      "cik": "0001828937",
+      "formType": "",
+      "fileDate": "2021-05-28",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40035"
+      ],
+      "companyName": "Lazard Growth Acquisition Corp. I  (CIK 0001836337)",
+      "cik": "0001836337",
+      "formType": "",
+      "fileDate": "2021-12-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40308"
+      ],
+      "companyName": "Finance of America Companies Inc.  (FOA, FOACW)  (CIK 0001828937)",
+      "cik": "0001828937",
+      "formType": "",
+      "fileDate": "2021-05-28",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39691"
+      ],
+      "companyName": "Northern Star Acquisition Corp.  (BARK, BARK-WT)  (CIK 0001819574)",
+      "cik": "0001819574",
+      "formType": "",
+      "fileDate": "2021-05-07",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39040"
+      ],
+      "companyName": "AST SpaceMobile, Inc.  (ASTS, ASTSW)  (CIK 0001780312)",
+      "cik": "0001780312",
+      "formType": "",
+      "fileDate": "2021-05-06",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39691"
+      ],
+      "companyName": "Northern Star Acquisition Corp.  (BARK, BARK-WT)  (CIK 0001819574)",
+      "cik": "0001819574",
+      "formType": "",
+      "fileDate": "2021-05-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40113"
+      ],
+      "companyName": "EJF Acquisition Corp.  (CIK 0001839434)",
+      "cik": "0001839434",
+      "formType": "",
+      "fileDate": "2021-05-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "000-22339"
+      ],
+      "companyName": "RAMBUS INC  (RMBS)  (CIK 0000917273)",
+      "cik": "0000917273",
+      "formType": "",
+      "fileDate": "2021-03-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "000-13928"
+      ],
+      "companyName": "U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)",
+      "cik": "0000754811",
+      "formType": "",
+      "fileDate": "2021-10-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39605"
+      ],
+      "companyName": "Social Capital Hedosophia Holdings Corp. IV  (CIK 0001818876)",
+      "cik": "0001818876",
+      "formType": "",
+      "fileDate": "2021-11-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-33004"
+      ],
+      "companyName": "Acer Therapeutics Inc.  (CIK 0001069308)",
+      "cik": "0001069308",
+      "formType": "",
+      "fileDate": "2021-11-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39607"
+      ],
+      "companyName": "Social Capital Hedosophia Holdings Corp. VI  (CIK 0001818873)",
+      "cik": "0001818873",
+      "formType": "",
+      "fileDate": "2021-11-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40116"
+      ],
+      "companyName": "MCAP Acquisition Corp  (CIK 0001838672)",
+      "cik": "0001838672",
+      "formType": "",
+      "fileDate": "2021-10-29",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40308"
+      ],
+      "companyName": "Finance of America Companies Inc.  (FOA, FOACW)  (CIK 0001828937)",
+      "cik": "0001828937",
+      "formType": "",
+      "fileDate": "2021-05-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-13471"
+      ],
+      "companyName": "INSIGNIA SYSTEMS INC/MN  (LDWY)  (CIK 0000875355)",
+      "cik": "0000875355",
+      "formType": "",
+      "fileDate": "2021-08-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "000-24249"
+      ],
+      "companyName": "INTERPACE BIOSCIENCES, INC.  (IDXG)  (CIK 0001054102)",
+      "cik": "0001054102",
+      "formType": "",
+      "fileDate": "2021-08-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40440"
+      ],
+      "companyName": "Dynamics Special Purpose Corp.  (SNTI)  (CIK 0001854270)",
+      "cik": "0001854270",
+      "formType": "",
+      "fileDate": "2021-12-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40056"
+      ],
+      "companyName": "Tishman Speyer Innovation Corp. II  (CIK 0001832737)",
+      "cik": "0001832737",
+      "formType": "",
+      "fileDate": "2021-12-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40318"
+      ],
+      "companyName": "Model Performance Acquisition Corp  (CIK 0001841993)",
+      "cik": "0001841993",
+      "formType": "",
+      "fileDate": "2021-11-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "000-54866"
+      ],
+      "companyName": "Crimson Wine Group, Ltd  (CWGL)  (CIK 0001562151)",
+      "cik": "0001562151",
+      "formType": "",
+      "fileDate": "2021-04-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39881"
+      ],
+      "companyName": "Embark Technology, Inc.  (CIK 0001827980)",
+      "cik": "0001827980",
+      "formType": "",
+      "fileDate": "2021-12-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38102"
+      ],
+      "companyName": "SMART Global Holdings, Inc.  (SGH)  (CIK 0001616533)",
+      "cik": "0001616533",
+      "formType": "",
+      "fileDate": "2021-04-06",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-37540"
+      ],
+      "companyName": "Hostess Brands, Inc.  (CIK 0001644406)",
+      "cik": "0001644406",
+      "formType": "",
+      "fileDate": "2021-05-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40243"
+      ],
+      "companyName": "Levere Holdings Corp.  (CIK 0001841383)",
+      "cik": "0001841383",
+      "formType": "",
+      "fileDate": "2021-11-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-13471"
+      ],
+      "companyName": "INSIGNIA SYSTEMS INC/MN  (LDWY)  (CIK 0000875355)",
+      "cik": "0000875355",
+      "formType": "",
+      "fileDate": "2021-08-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38076"
+      ],
+      "companyName": "Emerald Holding, Inc.  (EEX)  (CIK 0001579214)",
+      "cik": "0001579214",
+      "formType": "",
+      "fileDate": "2021-11-01",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39142"
+      ],
+      "companyName": "Porch Group, Inc.  (PRCH)  (CIK 0001784535)",
+      "cik": "0001784535",
+      "formType": "",
+      "fileDate": "2021-05-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39845"
+      ],
+      "companyName": "Ivanhoe Capital Acquisition Corp.  (SES, SES-WT)  (CIK 0001819142)",
+      "cik": "0001819142",
+      "formType": "",
+      "fileDate": "2021-12-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40113"
+      ],
+      "companyName": "EJF Acquisition Corp.  (CIK 0001839434)",
+      "cik": "0001839434",
+      "formType": "",
+      "fileDate": "2021-08-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-35947"
+      ],
+      "companyName": "STAR EQUITY HOLDINGS, INC.  (STRR, STRRP)  (CIK 0000707388)",
+      "cik": "0000707388",
+      "formType": "",
+      "fileDate": "2021-03-29",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40009"
+      ],
+      "companyName": "Quantum FinTech Acquisition Corp  (CIK 0001830795)",
+      "cik": "0001830795",
+      "formType": "",
+      "fileDate": "2021-07-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39726"
+      ],
+      "companyName": "Omnichannel Acquisition Corp.  (CIK 0001827669)",
+      "cik": "0001827669",
+      "formType": "",
+      "fileDate": "2021-12-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40056"
+      ],
+      "companyName": "Tishman Speyer Innovation Corp. II  (CIK 0001832737)",
+      "cik": "0001832737",
+      "formType": "",
+      "fileDate": "2021-12-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39944"
+      ],
+      "companyName": "Climate Real Impact Solutions II Acquisition Corp  (CIK 0001835713)",
+      "cik": "0001835713",
+      "formType": "",
+      "fileDate": "2021-12-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40049"
+      ],
+      "companyName": "Tuatara Capital Acquisition Corp  (SBIG, SBIGW)  (CIK 0001801602)",
+      "cik": "0001801602",
+      "formType": "",
+      "fileDate": "2021-12-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39638"
+      ],
+      "companyName": "DPCM Capital, Inc.  (CIK 0001821742)",
+      "cik": "0001821742",
+      "formType": "",
+      "fileDate": "2021-11-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40116"
+      ],
+      "companyName": "MCAP Acquisition Corp  (CIK 0001838672)",
+      "cik": "0001838672",
+      "formType": "",
+      "fileDate": "2021-11-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-40001"
+      ],
+      "companyName": "Compute Health Acquisition Corp.  (CIK 0001828608)",
+      "cik": "0001828608",
+      "formType": "",
+      "fileDate": "2021-11-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-38545"
+      ],
+      "companyName": "Landsea Homes Corp  (LSEA, LSEAW)  (CIK 0001721386)",
+      "cik": "0001721386",
+      "formType": "",
+      "fileDate": "2021-05-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-39505"
+      ],
+      "companyName": "Jupiter Acquisition Corp  (CIK 0001817868)",
+      "cik": "0001817868",
+      "formType": "",
+      "fileDate": "2021-11-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2021"
+    },
+    {
+      "accessionNumber": [
+        "001-33852"
+      ],
+      "companyName": "VirnetX Holding Corp  (VHC)  (CIK 0001082324)",
+      "cik": "0001082324",
+      "formType": "",
+      "fileDate": "2022-05-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40840"
+      ],
+      "companyName": "RBC Bearings INC  (RBC, RBCP)  (CIK 0001324948)",
+      "cik": "0001324948",
+      "formType": "",
+      "fileDate": "2022-08-04",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-38846"
+      ],
+      "companyName": "Lyft, Inc.  (LYFT)  (CIK 0001759509)",
+      "cik": "0001759509",
+      "formType": "",
+      "fileDate": "2022-04-29",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-55710"
+      ],
+      "companyName": "NIOCORP DEVELOPMENTS LTD  (NB, NIOBW)  (CIK 0001512228)",
+      "cik": "0001512228",
+      "formType": "",
+      "fileDate": "2022-10-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-56181"
+      ],
+      "companyName": "SmartKem, Inc.  (SMTK)  (CIK 0001817760)",
+      "cik": "0001817760",
+      "formType": "",
+      "fileDate": "2022-08-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-17363"
+      ],
+      "companyName": "Lifeway Foods, Inc.  (LWAY)  (CIK 0000814586)",
+      "cik": "0000814586",
+      "formType": "",
+      "fileDate": "2022-06-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40218"
+      ],
+      "companyName": "Plum Acquisition Corp. I  (PLMI, PLMIU, PLMIW)  (CIK 0001840317)",
+      "cik": "0001840317",
+      "formType": "",
+      "fileDate": "2022-11-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-36400"
+      ],
+      "companyName": "Ashford Inc.  (CIK 0001604738)",
+      "cik": "0001604738",
+      "formType": "",
+      "fileDate": "2022-03-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-50484"
+      ],
+      "companyName": "MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)",
+      "cik": "0001262104",
+      "formType": "",
+      "fileDate": "2022-05-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40560"
+      ],
+      "companyName": "Social Capital Suvretta Holdings Corp. III  (PROK)  (CIK 0001850270)",
+      "cik": "0001850270",
+      "formType": "",
+      "fileDate": "2022-06-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-33852"
+      ],
+      "companyName": "VirnetX Holding Corp  (VHC)  (CIK 0001082324)",
+      "cik": "0001082324",
+      "formType": "",
+      "fileDate": "2022-05-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40191"
+      ],
+      "companyName": "Stratim Cloud Acquisition Corp.  (CIK 0001821812)",
+      "cik": "0001821812",
+      "formType": "",
+      "fileDate": "2022-01-31",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-56440"
+      ],
+      "companyName": "Halberd Corp  (HALB)  (CIK 0001458631)",
+      "cik": "0001458631",
+      "formType": "",
+      "fileDate": "2022-09-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40558"
+      ],
+      "companyName": "Social Capital Suvretta Holdings Corp. I  (CIK 0001850266)",
+      "cik": "0001850266",
+      "formType": "",
+      "fileDate": "2022-05-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40021"
+      ],
+      "companyName": "Priveterra Acquisition Corp.  (AEON)  (CIK 0001837607)",
+      "cik": "0001837607",
+      "formType": "",
+      "fileDate": "2022-03-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39534"
+      ],
+      "companyName": "PMV Consumer Acquisition Corp.  (PMVC, PMVCD, PMVCW)  (CIK 0001807765)",
+      "cik": "0001807765",
+      "formType": "",
+      "fileDate": "2022-02-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40129"
+      ],
+      "companyName": "Arrowroot Acquisition Corp.  (AILE, AILEW)  (CIK 0001835972)",
+      "cik": "0001835972",
+      "formType": "",
+      "fileDate": "2022-02-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39901"
+      ],
+      "companyName": "OCA Acquisition Corp.  (OCAX, OCAXU, OCAXW)  (CIK 0001820175)",
+      "cik": "0001820175",
+      "formType": "",
+      "fileDate": "2022-03-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39049"
+      ],
+      "companyName": "EXAGEN INC.  (XGN)  (CIK 0001274737)",
+      "cik": "0001274737",
+      "formType": "",
+      "fileDate": "2022-11-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40122"
+      ],
+      "companyName": "ARYA Sciences Acquisition Corp IV  (CIK 0001838821)",
+      "cik": "0001838821",
+      "formType": "",
+      "fileDate": "2022-01-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39903"
+      ],
+      "companyName": "Authentic Equity Acquisition Corp.  (CIK 0001827392)",
+      "cik": "0001827392",
+      "formType": "",
+      "fileDate": "2022-02-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-10004"
+      ],
+      "companyName": "NAPCO SECURITY TECHNOLOGIES, INC  (NSSC)  (CIK 0000069633)",
+      "cik": "0000069633",
+      "formType": "",
+      "fileDate": "2022-05-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40143"
+      ],
+      "companyName": "Aurora Acquisition Corp.  (BETR, BETRW)  (CIK 0001835856)",
+      "cik": "0001835856",
+      "formType": "",
+      "fileDate": "2022-02-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40677"
+      ],
+      "companyName": "Alpha Partners Technology Merger Corp.  (PLMJ, PLMJU, PLMJW)  (CIK 0001845550)",
+      "cik": "0001845550",
+      "formType": "",
+      "fileDate": "2022-01-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-34269"
+      ],
+      "companyName": "SHARPS COMPLIANCE CORP  (CIK 0000898770)",
+      "cik": "0000898770",
+      "formType": "",
+      "fileDate": "2022-05-12",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39932"
+      ],
+      "companyName": "Bridgetown 2 Holdings Ltd  (CIK 0001831236)",
+      "cik": "0001831236",
+      "formType": "",
+      "fileDate": "2022-01-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-38964"
+      ],
+      "companyName": "SCHMITT INDUSTRIES INC  (CIK 0000922612)",
+      "cik": "0000922612",
+      "formType": "",
+      "fileDate": "2022-09-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-38093"
+      ],
+      "companyName": "Veritone, Inc.  (VERI)  (CIK 0001615165)",
+      "cik": "0001615165",
+      "formType": "",
+      "fileDate": "2022-08-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-41019"
+      ],
+      "companyName": "Bird Global, Inc.  (BRDSQ)  (CIK 0001861449)",
+      "cik": "0001861449",
+      "formType": "",
+      "fileDate": "2022-11-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40094"
+      ],
+      "companyName": "Slam Corp.  (SLAM, SLAMF, SLAMU, SLAMW, SLMUF, SLMWF)  (CIK 0001838162)",
+      "cik": "0001838162",
+      "formType": "",
+      "fileDate": "2022-02-11",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40847"
+      ],
+      "companyName": "MELI Kaszek Pioneer Corp  (CIK 0001870258)",
+      "cik": "0001870258",
+      "formType": "",
+      "fileDate": "2022-11-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39677"
+      ],
+      "companyName": "CONX Corp.  (CNXX, CNXXW)  (CIK 0001823000)",
+      "cik": "0001823000",
+      "formType": "",
+      "fileDate": "2022-01-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40191"
+      ],
+      "companyName": "Stratim Cloud Acquisition Corp.  (CIK 0001821812)",
+      "cik": "0001821812",
+      "formType": "",
+      "fileDate": "2022-03-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40120"
+      ],
+      "companyName": "Fusion Acquisition Corp. II  (CIK 0001840225)",
+      "cik": "0001840225",
+      "formType": "",
+      "fileDate": "2022-01-27",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39796"
+      ],
+      "companyName": "Vivos Therapeutics, Inc.  (VVOS)  (CIK 0001716166)",
+      "cik": "0001716166",
+      "formType": "",
+      "fileDate": "2022-11-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40072"
+      ],
+      "companyName": "ABG Acquisition Corp. I  (CIK 0001833764)",
+      "cik": "0001833764",
+      "formType": "",
+      "fileDate": "2022-01-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40172"
+      ],
+      "companyName": "Warburg Pincus Capital Corp I-B  (CIK 0001836074)",
+      "cik": "0001836074",
+      "formType": "",
+      "fileDate": "2022-03-04",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40006"
+      ],
+      "companyName": "HH&L Acquisition Co.  (CIK 0001824185)",
+      "cik": "0001824185",
+      "formType": "",
+      "fileDate": "2022-03-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40775"
+      ],
+      "companyName": "Insight Acquisition Corp. /DE  (INAQ, INAQU, INAQW)  (CIK 0001862463)",
+      "cik": "0001862463",
+      "formType": "",
+      "fileDate": "2022-03-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40171"
+      ],
+      "companyName": "Warburg Pincus Capital Corp I-A  (CIK 0001836075)",
+      "cik": "0001836075",
+      "formType": "",
+      "fileDate": "2022-03-04",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40906"
+      ],
+      "companyName": "Achari Ventures Holdings Corp. I  (AVHI, AVHIU, AVHIW)  (CIK 0001844507)",
+      "cik": "0001844507",
+      "formType": "",
+      "fileDate": "2022-05-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40130"
+      ],
+      "companyName": "DHC Acquisition Corp.  (BNAI, BNAIW)  (CIK 0001838163)",
+      "cik": "0001838163",
+      "formType": "",
+      "fileDate": "2022-03-07",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-56181"
+      ],
+      "companyName": "SmartKem, Inc.  (SMTK)  (CIK 0001817760)",
+      "cik": "0001817760",
+      "formType": "",
+      "fileDate": "2022-08-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-39821"
+      ],
+      "companyName": "ACKRELL SPAC Partners I Co.  (CIK 0001790121)",
+      "cik": "0001790121",
+      "formType": "",
+      "fileDate": "2022-02-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-38076"
+      ],
+      "companyName": "Emerald Holding, Inc.  (EEX)  (CIK 0001579214)",
+      "cik": "0001579214",
+      "formType": "",
+      "fileDate": "2022-07-28",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40229"
+      ],
+      "companyName": "LDH Growth Corp I  (CIK 0001842373)",
+      "cik": "0001842373",
+      "formType": "",
+      "fileDate": "2022-03-31",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40140"
+      ],
+      "companyName": "Rigetti Computing, Inc.  (RGTI, RGTIW)  (CIK 0001838359)",
+      "cik": "0001838359",
+      "formType": "",
+      "fileDate": "2022-11-30",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-31443"
+      ],
+      "companyName": "HAWAIIAN HOLDINGS INC  (HA)  (CIK 0001172222)",
+      "cik": "0001172222",
+      "formType": "",
+      "fileDate": "2022-10-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-40223"
+      ],
+      "companyName": "Golden Arrow Merger Corp.  (BSLK, BSLKW)  (CIK 0001841125)",
+      "cik": "0001841125",
+      "formType": "",
+      "fileDate": "2022-02-17",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "000-14893"
+      ],
+      "companyName": "RESEARCH FRONTIERS INC  (REFR)  (CIK 0000793524)",
+      "cik": "0000793524",
+      "formType": "",
+      "fileDate": "2022-02-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2022"
+    },
+    {
+      "accessionNumber": [
+        "001-38355"
+      ],
+      "companyName": "Nemaura Medical Inc.  (NMRD)  (CIK 0001602078)",
+      "cik": "0001602078",
+      "formType": "",
+      "fileDate": "2023-02-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-35629"
+      ],
+      "companyName": "TILE SHOP HOLDINGS, INC.  (TTSH)  (CIK 0001552800)",
+      "cik": "0001552800",
+      "formType": "",
+      "fileDate": "2023-11-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-38355"
+      ],
+      "companyName": "Nemaura Medical Inc.  (NMRD)  (CIK 0001602078)",
+      "cik": "0001602078",
+      "formType": "",
+      "fileDate": "2023-02-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-37392"
+      ],
+      "companyName": "Apollo Medical Holdings, Inc.  (ASTH)  (CIK 0001083446)",
+      "cik": "0001083446",
+      "formType": "",
+      "fileDate": "2023-08-07",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-12456"
+      ],
+      "companyName": "AMERICAN SOFTWARE INC  (AMSWA)  (CIK 0000713425)",
+      "cik": "0000713425",
+      "formType": "",
+      "fileDate": "2023-12-11",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-35994"
+      ],
+      "companyName": "NightHawk Biosciences, Inc.  (SCPX)  (CIK 0001476963)",
+      "cik": "0001476963",
+      "formType": "",
+      "fileDate": "2023-03-23",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39598"
+      ],
+      "companyName": "Xos, Inc.  (XOS, XOSWW)  (CIK 0001819493)",
+      "cik": "0001819493",
+      "formType": "",
+      "fileDate": "2023-03-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-35720"
+      ],
+      "companyName": "RH  (RH)  (CIK 0001528849)",
+      "cik": "0001528849",
+      "formType": "",
+      "fileDate": "2023-02-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-12584"
+      ],
+      "companyName": "Theriva Biologics, Inc.  (TOVX)  (CIK 0000894158)",
+      "cik": "0000894158",
+      "formType": "",
+      "fileDate": "2023-03-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40252"
+      ],
+      "companyName": "DigitalOcean Holdings, Inc.  (DOCN)  (CIK 0001582961)",
+      "cik": "0001582961",
+      "formType": "",
+      "fileDate": "2023-08-03",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41655"
+      ],
+      "companyName": "NIOCORP DEVELOPMENTS LTD  (NB, NIOBW)  (CIK 0001512228)",
+      "cik": "0001512228",
+      "formType": "",
+      "fileDate": "2023-06-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40750"
+      ],
+      "companyName": "Consensus Cloud Solutions, Inc.  (CCSI)  (CIK 0001866633)",
+      "cik": "0001866633",
+      "formType": "",
+      "fileDate": "2023-02-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39598"
+      ],
+      "companyName": "Xos, Inc.  (XOS, XOSWW)  (CIK 0001819493)",
+      "cik": "0001819493",
+      "formType": "",
+      "fileDate": "2023-03-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-56199"
+      ],
+      "companyName": "MedMen Enterprises, Inc.  (MMNFQ)  (CIK 0001776932)",
+      "cik": "0001776932",
+      "formType": "",
+      "fileDate": "2023-05-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41655"
+      ],
+      "companyName": "NIOCORP DEVELOPMENTS LTD  (NB, NIOBW)  (CIK 0001512228)",
+      "cik": "0001512228",
+      "formType": "",
+      "fileDate": "2023-05-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-38467"
+      ],
+      "companyName": "Ceridian HCM Holding Inc.  (DAY)  (CIK 0001725057)",
+      "cik": "0001725057",
+      "formType": "",
+      "fileDate": "2023-11-13",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-32491"
+      ],
+      "companyName": "COFFEE HOLDING CO INC  (JVA)  (CIK 0001007019)",
+      "cik": "0001007019",
+      "formType": "",
+      "fileDate": "2023-01-25",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40415"
+      ],
+      "companyName": "Fifth Wall Acquisition Corp. III  (BEEP)  (CIK 0001847874)",
+      "cik": "0001847874",
+      "formType": "",
+      "fileDate": "2023-03-31",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41655"
+      ],
+      "companyName": "NIOCORP DEVELOPMENTS LTD  (NB, NIOBW)  (CIK 0001512228)",
+      "cik": "0001512228",
+      "formType": "",
+      "fileDate": "2023-06-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39202"
+      ],
+      "companyName": "Annovis Bio, Inc.  (ANVS)  (CIK 0001477845)",
+      "cik": "0001477845",
+      "formType": "",
+      "fileDate": "2023-05-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40077"
+      ],
+      "companyName": "Quadro Acquisition One Corp.  (CIK 0001825962)",
+      "cik": "0001825962",
+      "formType": "",
+      "fileDate": "2023-04-12",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40611"
+      ],
+      "companyName": "Nauticus Robotics, Inc.  (KITT, KITTW)  (CIK 0001849820)",
+      "cik": "0001849820",
+      "formType": "",
+      "fileDate": "2023-08-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-38355"
+      ],
+      "companyName": "Nemaura Medical Inc.  (NMRD)  (CIK 0001602078)",
+      "cik": "0001602078",
+      "formType": "",
+      "fileDate": "2023-02-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39642"
+      ],
+      "companyName": "CXApp Inc.  (CXAI, CXAIW)  (CIK 0001820875)",
+      "cik": "0001820875",
+      "formType": "",
+      "fileDate": "2023-04-19",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-11038"
+      ],
+      "companyName": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP  (NTIC)  (CIK 0000875582)",
+      "cik": "0000875582",
+      "formType": "",
+      "fileDate": "2023-11-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39202"
+      ],
+      "companyName": "Annovis Bio, Inc.  (ANVS)  (CIK 0001477845)",
+      "cik": "0001477845",
+      "formType": "",
+      "fileDate": "2023-11-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39202"
+      ],
+      "companyName": "Annovis Bio, Inc.  (ANVS)  (CIK 0001477845)",
+      "cik": "0001477845",
+      "formType": "",
+      "fileDate": "2023-08-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-34890"
+      ],
+      "companyName": "BIMI International Medical Inc.  (BIMI)  (CIK 0001213660)",
+      "cik": "0001213660",
+      "formType": "",
+      "fileDate": "2023-12-01",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40252"
+      ],
+      "companyName": "DigitalOcean Holdings, Inc.  (DOCN)  (CIK 0001582961)",
+      "cik": "0001582961",
+      "formType": "",
+      "fileDate": "2023-08-11",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-50626"
+      ],
+      "companyName": "Cyclacel Pharmaceuticals, Inc.  (CYCC, CYCCP)  (CIK 0001130166)",
+      "cik": "0001130166",
+      "formType": "",
+      "fileDate": "2023-11-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-34166"
+      ],
+      "companyName": "SUNPOWER CORP  (SPWRQ)  (CIK 0000867773)",
+      "cik": "0000867773",
+      "formType": "",
+      "fileDate": "2023-10-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40694"
+      ],
+      "companyName": "Traeger, Inc.  (COOK)  (CIK 0001857853)",
+      "cik": "0001857853",
+      "formType": "",
+      "fileDate": "2023-08-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-38543"
+      ],
+      "companyName": "OptimizeRx Corp  (OPRX)  (CIK 0001448431)",
+      "cik": "0001448431",
+      "formType": "",
+      "fileDate": "2023-03-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-10004"
+      ],
+      "companyName": "NAPCO SECURITY TECHNOLOGIES, INC  (NSSC)  (CIK 0000069633)",
+      "cik": "0000069633",
+      "formType": "",
+      "fileDate": "2023-08-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-13602"
+      ],
+      "companyName": "VERU INC.  (VERU)  (CIK 0000863894)",
+      "cik": "0000863894",
+      "formType": "",
+      "fileDate": "2023-11-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-35618"
+      ],
+      "companyName": "LEGALZOOM.COM, INC.  (LZ)  (CIK 0001286139)",
+      "cik": "0001286139",
+      "formType": "",
+      "fileDate": "2023-02-27",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41710"
+      ],
+      "companyName": "Atmus Filtration Technologies Inc.  (ATMU)  (CIK 0001921963)",
+      "cik": "0001921963",
+      "formType": "",
+      "fileDate": "2023-08-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-40611"
+      ],
+      "companyName": "Nauticus Robotics, Inc.  (KITT, KITTW)  (CIK 0001849820)",
+      "cik": "0001849820",
+      "formType": "",
+      "fileDate": "2023-03-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-13928"
+      ],
+      "companyName": "U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)",
+      "cik": "0000754811",
+      "formType": "",
+      "fileDate": "2023-03-06",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41216"
+      ],
+      "companyName": "10X Capital Venture Acquisition Corp. III  (CIK 0001848948)",
+      "cik": "0001848948",
+      "formType": "",
+      "fileDate": "2023-05-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-39598"
+      ],
+      "companyName": "Xos, Inc.  (XOS, XOSWW)  (CIK 0001819493)",
+      "cik": "0001819493",
+      "formType": "",
+      "fileDate": "2023-03-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-33137"
+      ],
+      "companyName": "Emergent BioSolutions Inc.  (EBS)  (CIK 0001367644)",
+      "cik": "0001367644",
+      "formType": "",
+      "fileDate": "2023-11-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-32188"
+      ],
+      "companyName": "ORAGENICS INC  (OGEN)  (CIK 0001174940)",
+      "cik": "0001174940",
+      "formType": "",
+      "fileDate": "2023-04-10",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-10004"
+      ],
+      "companyName": "NAPCO SECURITY TECHNOLOGIES, INC  (NSSC)  (CIK 0000069633)",
+      "cik": "0000069633",
+      "formType": "",
+      "fileDate": "2023-09-01",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-11657"
+      ],
+      "companyName": "TUPPERWARE BRANDS CORP  (TUP)  (CIK 0001008654)",
+      "cik": "0001008654",
+      "formType": "",
+      "fileDate": "2023-09-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-38247"
+      ],
+      "companyName": "AYTU BIOPHARMA, INC  (AYTU)  (CIK 0001385818)",
+      "cik": "0001385818",
+      "formType": "",
+      "fileDate": "2023-02-21",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41171"
+      ],
+      "companyName": "Ault Disruptive Technologies Corp  (ADRT, ADRTW, ADRT-UN)  (CIK 0001864032)",
+      "cik": "0001864032",
+      "formType": "",
+      "fileDate": "2023-05-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-41710"
+      ],
+      "companyName": "Atmus Filtration Technologies Inc.  (ATMU)  (CIK 0001921963)",
+      "cik": "0001921963",
+      "formType": "",
+      "fileDate": "2023-08-08",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-10004"
+      ],
+      "companyName": "NAPCO SECURITY TECHNOLOGIES, INC  (NSSC)  (CIK 0000069633)",
+      "cik": "0000069633",
+      "formType": "",
+      "fileDate": "2023-09-01",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "000-10004"
+      ],
+      "companyName": "NAPCO SECURITY TECHNOLOGIES, INC  (NSSC)  (CIK 0000069633)",
+      "cik": "0000069633",
+      "formType": "",
+      "fileDate": "2023-08-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2023"
+    },
+    {
+      "accessionNumber": [
+        "001-12616"
+      ],
+      "companyName": "SUN COMMUNITIES INC  (SUI)  (CIK 0000912593)",
+      "cik": "0000912593",
+      "formType": "",
+      "fileDate": "2024-02-20",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-32639"
+      ],
+      "companyName": "TG THERAPEUTICS, INC.  (TGTX)  (CIK 0001001316)",
+      "cik": "0001001316",
+      "formType": "",
+      "fileDate": "2024-08-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "033-37587"
+      ],
+      "companyName": "PRUCO LIFE INSURANCE CO  (CIK 0000777917)",
+      "cik": "0000777917",
+      "formType": "",
+      "fileDate": "2024-08-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-34785"
+      ],
+      "companyName": "XWELL, Inc.  (XWEL)  (CIK 0001410428)",
+      "cik": "0001410428",
+      "formType": "",
+      "fileDate": "2024-04-12",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-40175"
+      ],
+      "companyName": "Symbotic Inc.  (SYM)  (CIK 0001837240)",
+      "cik": "0001837240",
+      "formType": "",
+      "fileDate": "2024-12-04",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-38634"
+      ],
+      "companyName": "REVIVA PHARMACEUTICALS HOLDINGS, INC.  (RVPH, RVPHW)  (CIK 0001742927)",
+      "cik": "0001742927",
+      "formType": "",
+      "fileDate": "2024-04-15",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-39927"
+      ],
+      "companyName": "SeaStar Medical Holding Corp  (ICU, ICUCW)  (CIK 0001831868)",
+      "cik": "0001831868",
+      "formType": "",
+      "fileDate": "2024-03-27",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-35777"
+      ],
+      "companyName": "Rithm Capital Corp.  (RITM, RITM-PA, RITM-PB, RITM-PC, RITM-PD)  (CIK 0001556593)",
+      "cik": "0001556593",
+      "formType": "",
+      "fileDate": "2024-07-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "000-14656"
+      ],
+      "companyName": "REPLIGEN CORP  (RGEN)  (CIK 0000730272)",
+      "cik": "0000730272",
+      "formType": "",
+      "fileDate": "2024-11-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-38693"
+      ],
+      "companyName": "Allogene Therapeutics, Inc.  (ALLO)  (CIK 0001737287)",
+      "cik": "0001737287",
+      "formType": "",
+      "fileDate": "2024-02-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-32639"
+      ],
+      "companyName": "TG THERAPEUTICS, INC.  (TGTX)  (CIK 0001001316)",
+      "cik": "0001001316",
+      "formType": "",
+      "fileDate": "2024-08-09",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-14845"
+      ],
+      "companyName": "TRIMBLE INC.  (TRMB)  (CIK 0000864749)",
+      "cik": "0000864749",
+      "formType": "",
+      "fileDate": "2024-08-06",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-41223"
+      ],
+      "companyName": "Papaya Growth Opportunity Corp. I  (PPYA, PPYAU, PPYAW)  (CIK 0001894057)",
+      "cik": "0001894057",
+      "formType": "",
+      "fileDate": "2024-05-24",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "000-14656"
+      ],
+      "companyName": "REPLIGEN CORP  (RGEN)  (CIK 0000730272)",
+      "cik": "0000730272",
+      "formType": "",
+      "fileDate": "2024-11-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-13602"
+      ],
+      "companyName": "VERU INC.  (VERU)  (CIK 0000863894)",
+      "cik": "0000863894",
+      "formType": "",
+      "fileDate": "2024-05-22",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-36620"
+      ],
+      "companyName": "Eledon Pharmaceuticals, Inc.  (ELDN)  (CIK 0001404281)",
+      "cik": "0001404281",
+      "formType": "",
+      "fileDate": "2024-08-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-36912"
+      ],
+      "companyName": "Cidara Therapeutics, Inc.  (CDTX)  (CIK 0001610618)",
+      "cik": "0001610618",
+      "formType": "",
+      "fileDate": "2024-04-16",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-41100"
+      ],
+      "companyName": "Everest Consolidator Acquisition Corp  (MNTN, MNTN-UN, MNTN-WT)  (CIK 0001863719)",
+      "cik": "0001863719",
+      "formType": "",
+      "fileDate": "2024-02-14",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-39080"
+      ],
+      "companyName": "Powerfleet, Inc.  (AIOT)  (CIK 0001774170)",
+      "cik": "0001774170",
+      "formType": "",
+      "fileDate": "2024-04-05",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-40920"
+      ],
+      "companyName": "Aeries Technology, Inc.  (AERT, AERTW)  (CIK 0001853044)",
+      "cik": "0001853044",
+      "formType": "",
+      "fileDate": "2024-02-07",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "000-14656"
+      ],
+      "companyName": "REPLIGEN CORP  (RGEN)  (CIK 0000730272)",
+      "cik": "0000730272",
+      "formType": "",
+      "fileDate": "2024-11-18",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-40812"
+      ],
+      "companyName": "Thoughtworks Holding, Inc.  (TWKS)  (CIK 0001866550)",
+      "cik": "0001866550",
+      "formType": "",
+      "fileDate": "2024-02-12",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    },
+    {
+      "accessionNumber": [
+        "001-32839"
+      ],
+      "companyName": "Avid Bioservices, Inc.  (CDMO)  (CIK 0000704562)",
+      "cik": "0000704562",
+      "formType": "",
+      "fileDate": "2024-03-12",
+      "periodEnding": "",
+      "category": "Restatement + material weakness",
+      "year": "2024"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+streamlit>=1.30
+edgartools>=5.28
+pandas>=2.0
+plotly>=5.18
+beautifulsoup4>=4.12
+lxml>=5.1
+httpx>=0.27

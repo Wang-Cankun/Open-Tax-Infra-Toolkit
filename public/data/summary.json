@@ -1,0 +1,49 @@
+{
+  "refreshedAt": "2026-04-09T02:00:00Z",
+  "areas": {
+    "asc-820": {
+      "filingCount": 30209,
+      "xbrlCount": 212
+    },
+    "topic-832": {
+      "filingCount": 883,
+      "xbrlCount": 0
+    },
+    "asc-718": {
+      "filingCount": 18774,
+      "xbrlCount": 11
+    },
+    "asc-606": {
+      "filingCount": 24357,
+      "xbrlCount": 1
+    },
+    "asc-810": {
+      "filingCount": 7030,
+      "xbrlCount": 0
+    },
+    "restatements": {
+      "filingCount": 200,
+      "xbrlCount": 0
+    },
+    "asc-350": {
+      "filingCount": 900,
+      "xbrlCount": 2881
+    },
+    "asc-740": {
+      "filingCount": 19900,
+      "xbrlCount": 3001
+    },
+    "asc-326": {
+      "filingCount": 8248,
+      "xbrlCount": 330
+    },
+    "asc-842": {
+      "filingCount": 28547,
+      "xbrlCount": 4027
+    },
+    "asc-815": {
+      "filingCount": 27813,
+      "xbrlCount": 532
+    }
+  }
+}

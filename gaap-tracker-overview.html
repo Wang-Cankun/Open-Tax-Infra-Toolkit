@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GAAP Tracker — How It Works</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --c-bg: #f8fafc;
+      --c-canvas: #ffffff;
+      --c-border: #cbd5e1;
+      --c-text-main: #0f172a;
+      --c-text-sub: #64748b;
+      --c-accent: #1e40af;
+      --c-accent-light: #eff6ff;
+      --c-green: #166534;
+      --c-green-light: #f0fdf4;
+      --c-amber: #92400e;
+      --c-amber-light: #fffbeb;
+      --font-ui: 'Inter', sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--font-ui);
+      background: var(--c-bg);
+      padding: 40px;
+      min-height: 100vh;
+    }
+
+    .diagram-container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .diagram-canvas {
+      background: var(--c-canvas);
+      border: 1px solid var(--c-border);
+      padding: 40px;
+    }
+
+    /* ── Header ── */
+    .diagram-header {
+      border-bottom: 1px solid var(--c-border);
+      padding-bottom: 16px;
+      margin-bottom: 32px;
+    }
+    .diagram-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--c-text-main);
+      margin-bottom: 4px;
+    }
+    .diagram-subtitle {
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--c-text-sub);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    /* ── Section Labels ── */
+    .section-label {
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--c-text-sub);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 12px;
+    }
+
+    /* ── Problem Statement ── */
+    .problem-box {
+      border: 1px solid var(--c-border);
+      padding: 20px 24px;
+      margin-bottom: 32px;
+      background: var(--c-amber-light);
+      border-left: 3px solid var(--c-amber);
+    }
+    .problem-box .label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--c-amber);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 6px;
+    }
+    .problem-box p {
+      font-size: 14px;
+      color: var(--c-text-main);
+      line-height: 1.6;
+    }
+
+    /* ── Flow Section ── */
+    .flow-row {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr auto 1fr;
+      gap: 0;
+      align-items: center;
+      margin-bottom: 36px;
+    }
+    .flow-box {
+      border: 1px solid var(--c-border);
+      padding: 20px;
+      text-align: center;
+    }
+    .flow-box .flow-icon {
+      font-size: 28px;
+      margin-bottom: 8px;
+    }
+    .flow-box .flow-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--c-text-main);
+      margin-bottom: 4px;
+    }
+    .flow-box .flow-desc {
+      font-size: 12px;
+      color: var(--c-text-sub);
+      line-height: 1.5;
+    }
+    .flow-box.source {
+      background: var(--c-accent-light);
+      border-color: var(--c-accent);
+    }
+    .flow-box.process {
+      background: var(--c-canvas);
+    }
+    .flow-box.output {
+      background: var(--c-green-light);
+      border-color: var(--c-green);
+    }
+
+    .arrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 8px;
+    }
+    .arrow svg {
+      width: 40px;
+      height: 20px;
+    }
+
+    /* ── Coverage Grid ── */
+    .coverage-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 36px;
+    }
+    .area-card {
+      border: 1px solid var(--c-border);
+      padding: 14px 16px;
+    }
+    .area-card .area-code {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--c-accent);
+      margin-bottom: 4px;
+    }
+    .area-card .area-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--c-text-main);
+      margin-bottom: 2px;
+    }
+    .area-card .area-example {
+      font-size: 11px;
+      color: var(--c-text-sub);
+      line-height: 1.4;
+    }
+
+    /* ── Metrics Bar ── */
+    .metrics-bar {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 36px;
+      padding-top: 24px;
+      border-top: 1px solid var(--c-border);
+    }
+    .metric {
+      text-align: center;
+      padding: 16px 12px;
+      border: 1px solid var(--c-border);
+    }
+    .metric .metric-value {
+      font-family: var(--font-mono);
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--c-text-main);
+      margin-bottom: 4px;
+    }
+    .metric .metric-label {
+      font-size: 11px;
+      color: var(--c-text-sub);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    /* ── Data Sources ── */
+    .sources {
+      border-top: 1px solid var(--c-border);
+      padding-top: 20px;
+      display: flex;
+      gap: 24px;
+    }
+    .source-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .source-dot {
+      width: 8px;
+      height: 8px;
+      border: 2px solid var(--c-text-sub);
+    }
+    .source-text {
+      font-size: 12px;
+      color: var(--c-text-sub);
+    }
+
+    /* ── Use-cases ── */
+    .usecases {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 36px;
+    }
+    .usecase {
+      border: 1px solid var(--c-border);
+      padding: 16px;
+    }
+    .usecase .uc-who {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--c-accent);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 6px;
+    }
+    .usecase .uc-what {
+      font-size: 13px;
+      color: var(--c-text-main);
+      line-height: 1.5;
+    }
+
+    .divider {
+      border-top: 1px solid var(--c-border);
+      margin: 4px 0 24px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="diagram-container">
+    <div class="diagram-canvas">
+
+      <!-- Header -->
+      <div class="diagram-header">
+        <div class="diagram-title">GAAP Tracker</div>
+        <div class="diagram-subtitle">How Companies Interpret Accounting Standards &mdash; Made Visible</div>
+      </div>
+
+      <!-- Problem Statement -->
+      <div class="problem-box">
+        <div class="label">The Problem</div>
+        <p>
+          FASB accounting standards often leave <strong>judgment calls</strong> to practitioners.
+          The same economic transaction can be reported differently by different companies.
+          These differences are buried in thousands of SEC filings &mdash; making comparison nearly impossible by hand.
+        </p>
+      </div>
+
+      <!-- 3-Step Flow -->
+      <div class="section-label">How It Works</div>
+      <div class="divider"></div>
+      <div class="flow-row">
+        <!-- Step 1 -->
+        <div class="flow-box source">
+          <div class="flow-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#1e40af" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+              <line x1="16" y1="13" x2="8" y2="13"/>
+              <line x1="16" y1="17" x2="8" y2="17"/>
+            </svg>
+          </div>
+          <div class="flow-title">SEC Filings</div>
+          <div class="flow-desc">
+            10-K and 10-Q reports<br>
+            filed by public companies<br>
+            with the SEC (EDGAR)
+          </div>
+        </div>
+        <!-- Arrow -->
+        <div class="arrow">
+          <svg viewBox="0 0 40 20" fill="none">
+            <line x1="0" y1="10" x2="32" y2="10" stroke="#cbd5e1" stroke-width="2"/>
+            <polyline points="28,5 34,10 28,15" stroke="#cbd5e1" stroke-width="2" fill="none"/>
+          </svg>
+        </div>
+        <!-- Step 2 -->
+        <div class="flow-box process">
+          <div class="flow-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0f172a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              <line x1="8" y1="11" x2="14" y2="11"/>
+              <line x1="11" y1="8" x2="11" y2="14"/>
+            </svg>
+          </div>
+          <div class="flow-title">GAAP Tracker</div>
+          <div class="flow-desc">
+            Reads filings &amp; XBRL data,<br>
+            organizes by accounting topic,<br>
+            surfaces interpretation patterns
+          </div>
+        </div>
+        <!-- Arrow -->
+        <div class="arrow">
+          <svg viewBox="0 0 40 20" fill="none">
+            <line x1="0" y1="10" x2="32" y2="10" stroke="#cbd5e1" stroke-width="2"/>
+            <polyline points="28,5 34,10 28,15" stroke="#cbd5e1" stroke-width="2" fill="none"/>
+          </svg>
+        </div>
+        <!-- Step 3 -->
+        <div class="flow-box output">
+          <div class="flow-icon">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#166534" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="7 10 12 15 17 10"/>
+              <line x1="12" y1="15" x2="12" y2="3"/>
+            </svg>
+          </div>
+          <div class="flow-title">Comparable Insights</div>
+          <div class="flow-desc">
+            See how companies differ<br>
+            in applying the same standard<br>
+            &mdash; side by side
+          </div>
+        </div>
+      </div>
+
+      <!-- 11 Areas -->
+      <div class="section-label">Accounting Areas Tracked (11 ASC Topics)</div>
+      <div class="divider"></div>
+      <div class="coverage-grid">
+        <div class="area-card">
+          <div class="area-code">Topic 832</div>
+          <div class="area-name">Government Grants</div>
+          <div class="area-example">CHIPS Act, IRA Clean Energy, Infrastructure programs</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 606</div>
+          <div class="area-name">Revenue Recognition</div>
+          <div class="area-example">When and how revenue is recorded from contracts</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 842</div>
+          <div class="area-name">Leases</div>
+          <div class="area-example">Operating vs. finance lease classification choices</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 820</div>
+          <div class="area-name">Fair Value</div>
+          <div class="area-example">Level 1 / 2 / 3 hierarchy &mdash; how assets are valued</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 815</div>
+          <div class="area-name">Derivatives &amp; Hedging</div>
+          <div class="area-example">Hedge accounting election and effectiveness</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 810</div>
+          <div class="area-name">Consolidation</div>
+          <div class="area-example">Variable interest entity (VIE) analysis decisions</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 326</div>
+          <div class="area-name">Credit Losses (CECL)</div>
+          <div class="area-example">Expected loss estimation methods</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 718</div>
+          <div class="area-name">Stock Compensation</div>
+          <div class="area-example">Options &amp; RSU valuation approaches</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 740</div>
+          <div class="area-name">Income Taxes</div>
+          <div class="area-example">Deferred tax positions and valuation allowances</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">ASC 350</div>
+          <div class="area-name">Goodwill &amp; Intangibles</div>
+          <div class="area-example">Impairment testing methods and triggers</div>
+        </div>
+        <div class="area-card">
+          <div class="area-code">Restatements</div>
+          <div class="area-name">Amended Filings</div>
+          <div class="area-example">Corrections to previously filed financial statements</div>
+        </div>
+        <div class="area-card" style="border: 1px dashed var(--c-border); background: var(--c-bg);">
+          <div class="area-code" style="color: var(--c-text-sub);">Enforcement</div>
+          <div class="area-name" style="color: var(--c-text-sub);">SEC Actions</div>
+          <div class="area-example">Accounting-related enforcement cases &amp; penalties</div>
+        </div>
+      </div>
+
+      <!-- Who Benefits -->
+      <div class="section-label">Who Can Use This</div>
+      <div class="divider"></div>
+      <div class="usecases">
+        <div class="usecase">
+          <div class="uc-who">Auditors</div>
+          <div class="uc-what">Compare how peer companies apply the same standard to benchmark audit judgments</div>
+        </div>
+        <div class="usecase">
+          <div class="uc-who">Financial Analysts</div>
+          <div class="uc-what">Identify where accounting choices mask or inflate economic performance</div>
+        </div>
+        <div class="usecase">
+          <div class="uc-who">Accounting Researchers</div>
+          <div class="uc-what">Study adoption patterns and interpretation trends across industries</div>
+        </div>
+      </div>
+
+      <!-- Key Numbers -->
+      <div class="section-label">Scale</div>
+      <div class="metrics-bar">
+        <div class="metric">
+          <div class="metric-value">100K+</div>
+          <div class="metric-label">Filings Analyzed</div>
+        </div>
+        <div class="metric">
+          <div class="metric-value">11</div>
+          <div class="metric-label">GAAP Areas</div>
+        </div>
+        <div class="metric">
+          <div class="metric-value">1,000+</div>
+          <div class="metric-label">Public Companies</div>
+        </div>
+        <div class="metric">
+          <div class="metric-value">6 hrs</div>
+          <div class="metric-label">Data Refresh Cycle</div>
+        </div>
+      </div>
+
+      <!-- Data Sources -->
+      <div class="sources">
+        <div class="source-item">
+          <div class="source-dot"></div>
+          <div class="source-text">Data from <strong>SEC EDGAR</strong> (public filings)</div>
+        </div>
+        <div class="source-item">
+          <div class="source-dot"></div>
+          <div class="source-text">Federal grant data from <strong>USAspending.gov</strong></div>
+        </div>
+        <div class="source-item">
+          <div class="source-dot"></div>
+          <div class="source-text">All data is <strong>publicly available</strong> &mdash; no proprietary sources</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>

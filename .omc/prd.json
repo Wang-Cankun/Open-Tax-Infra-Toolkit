@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "id": "US-001",
+      "title": "Phase 1: AreaConfig type + registry + data helpers",
+      "priority": 1,
+      "passes": true,
+      "acceptanceCriteria": [
+        "src/lib/areas/types.ts exports AreaConfig interface with all fields",
+        "src/lib/areas/registry.ts exports getAllAreas() returning 11 configs and getAreaBySlug(slug)",
+        "src/lib/areas/data.ts exports getAreaFilings, getAreaCount, getAreaTimeline, getAreaXbrlFilers",
+        "searchAllFilings is exported from efts.ts",
+        "bun run build passes"
+      ]
+    },
+    {
+      "id": "US-002",
+      "title": "Phase 2: Dynamic [slug] route",
+      "priority": 2,
+      "passes": true,
+      "acceptanceCriteria": [
+        "src/app/areas/[slug]/page.tsx exists with generateStaticParams + revalidate=21600",
+        "SectionIntro uses JSX wrapping (no dangerouslySetInnerHTML)",
+        "XBRL areas show top-20 chart + xbrl table columns",
+        "EFTS areas show timeline + efts table columns",
+        "Unknown slug returns 404",
+        "bun run build passes with all 11 slugs generated"
+      ]
+    },
+    {
+      "id": "US-003",
+      "title": "Phase 3: Home page grid + nav dropdown",
+      "priority": 3,
+      "passes": true,
+      "acceptanceCriteria": [
+        "Home page shows grid of 11 area cards with live filing counts",
+        "Home page uses Promise.allSettled",
+        "Nav has Areas dropdown listing all 11 areas",
+        "About page areas section generated from registry",
+        "bun run build passes"
+      ]
+    },
+    {
+      "id": "US-004",
+      "title": "Phase 4: Cleanup + redirects",
+      "priority": 4,
+      "passes": true,
+      "acceptanceCriteria": [
+        "Old pages deleted: topic832/, asc815/, restatements/",
+        "next.config.mjs has 3 permanent redirects",
+        "DashboardStats type removed from types.ts",
+        "No orphaned imports",
+        "bun run build passes with zero errors"
+      ]
+    }
+  ]
+}

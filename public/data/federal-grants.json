@@ -1,0 +1,3063 @@
+{
+  "refreshedAt": "2026-04-09T00:00:40.769Z",
+  "totalGrants": 300,
+  "byProgram": {
+    "CHIPS Act": {
+      "count": 100,
+      "totalAmount": 1270428388.8700004
+    },
+    "IRA Clean Energy": {
+      "count": 100,
+      "totalAmount": 37669871732
+    },
+    "Infrastructure (IIJA)": {
+      "count": 100,
+      "totalAmount": 12927626795.66
+    }
+  },
+  "byState": {
+    "SD": 215154724.93,
+    "NJ": 1183853440,
+    "FL": 1076179311.01,
+    "GA": 411096247,
+    "OH": 1669711532,
+    "WI": 267950630.45,
+    "MT": 103180733.29,
+    "CO": 1065594165,
+    "ND": 163592580.47,
+    "WA": 443749585.45,
+    "MN": 314534097.98,
+    "MI": 1392951574,
+    "MO": 185553380.31,
+    "OR": 210859198,
+    "CA": 4600631414.13,
+    "NY": 4625302442,
+    "NC": 1259999174,
+    "PA": 5035319708.49,
+    "WY": 103150436.25,
+    "MA": 326950096.83000004,
+    "VA": 1275309009.46,
+    "AR": 294844447.44,
+    "CT": 708790616,
+    "AL": 8767130.23,
+    "NV": 164825302,
+    "AK": 6295077.51,
+    "MD": 9115658479,
+    "DC": 6289730803,
+    "IL": 2695424252.3,
+    "NE": 707000000,
+    "TX": 2521998646,
+    "SC": 409431852,
+    "IN": 538140999,
+    "AZ": 156120000,
+    "LA": 368476801,
+    "PR": 156120000,
+    "TN": 330873000,
+    "NM": 156120000,
+    "DE": 127510094,
+    "UT": 110000000,
+    "WV": 668983103
+  },
+  "grants": [
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22340000Z43ESD0908097",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 61573382,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF MCCOOK; RURAL INTERSTATE RECONSTRUCTION, REPLACE BRIDGE; STRUCTURE  ON THE FOLLOWING ROUTES 090W, 090E. :::: PROJECT DESCRIPTION: REMOVE AND REPLACE PCC, PIPE WORK, REPLACE ST",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "3460IF2403",
+      "recipient": "NOKIA OF AMERICA CORPORATION",
+      "amount": 45000000,
+      "agency": "Department of Commerce",
+      "startDate": "2025-01-01",
+      "description": "PURPOSE: NOKIAS PROPOSAL SUPPORTS THE DEVELOPMENT OF A NEXT GENERATION OPEN RADIO UNIT PLATFORM (NGO-RUP) TO DELIVER SPECIFIC OPEN RADIO UNIT (O-RU) PRODUCTS GLOBALLY, INCLUDING IN THE U.S. THE FIRST ",
+      "state": "NJ"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "1260IF2416",
+      "recipient": "AIRSPAN NETWORKS INC.",
+      "amount": 42729740.22,
+      "agency": "Department of Commerce",
+      "startDate": "2025-02-01",
+      "description": "PURPOSE: AIRSPAN INTENDS TO ACCELERATE AND EXPAND ITS RU DEVELOPMENT TO CREATE THE AIRU 2750 CAT A RU PLATFORM - A POWER EFFICIENT, HIGH PERFORMING RU PLATFORM BUILT TO QUICKLY DELIVER MULTIPLE VARIAN",
+      "state": "FL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NU2RGH001917",
+      "recipient": "INTEGRAL GLOBAL HEALTH, INC.",
+      "amount": 36307501,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-08-01",
+      "description": "CAPACITY BUILDING FOR GLOBAL, REGIONAL, AND NATIONAL IMMUNIZATION PROGRAMS - GLOBAL IMMUNIZATION DIVISION, CENTERS FOR DISEASE CONTROL AND PREVENTION - THIS PROPOSAL?S PURPOSE IS TO SUPPORT THE CENTER",
+      "state": "GA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "OH-2023-036",
+      "recipient": "CENTRAL OHIO TRANSIT AUTHORITY",
+      "amount": 32101708,
+      "agency": "Department of Transportation",
+      "startDate": "2023-08-14",
+      "description": "APPLICATION PURPOSE: PROJECTS ARE PART OF COTAS 5-YEAR CAPITAL IMPROVEMENT PLAN (CIP) AND OUR 5-YEAR STRATEGIC PLAN. THIS INCLUDES THE PURCHASE OF COMPRESSED NATURAL GAS (CNG) BUSES MOBILITY VEHICLES ",
+      "state": "OH"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NU2GGH002442",
+      "recipient": "EASTERN PROVINCIAL HEALTH OFFICE",
+      "amount": 29436790,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2022-09-30",
+      "description": "SUSTAINING THE CAPACITY OF PROVINCIAL HEALTH OFFICES (PHO) TO COORDINATE AND PROVIDE QUALITY, COMPREHENSIVE AND SUSTAINABLE HIV/AIDS PREVENTION, CARE AND TREATMENT SERVICES IN ZAMBIA UNDER PEPFAR - EA",
+      "state": null
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001WI2024073",
+      "recipient": "WISCONSIN DEPARTMENT OF TRANSPORTATION",
+      "amount": 28547000,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: CHIPPEWA FALLS - NEW AUBURN 40TH AVENUE - CTH B (NB & SB) CONSTRUCTION/PAVEMENT REPLACEMENT LET - CONTRACT VIA BID LETTING :::: PROJECT DESCRIPTION: USH 053, 7.595 MILES, CHIPPEWA FALLS",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y240MT0513014",
+      "recipient": "MONTANA DEPARTMENT OF TRANSPORTATION",
+      "amount": 26476663.55,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: LAMBERT-WEST (CN & CE) STATE PRIMARY 51, RICHLAND COUNTY, REHABILITATION OF THE EXISTING ROADWAY FROM REFERENCE POINT 38.4 TO 49.3 :::: PROJECT DESCRIPTION: CONSTRUCTION PROJECT FOR THE",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z970SD0908095",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 23100265.48,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF MCCOOK; REMOVE AND REPLACE PCC, PIPE WORK, REPLACE STR AND APPROACH GRADING, DECK OVERLAY, POLYMER CHIP SEAL; ON THE FOLLOWING ROUTE I90E :::: PROJECT DESCRIPTION: REMOVE AND ",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ21930000Z001SD0904062",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 22255915.77,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF LYMAN; AC RESURFACING; BRIDGE REHABILITATION, ON THE FOLLOWING ROUTES: 090 E, 090 W :::: PROJECT DESCRIPTION: AC RESURFACING; APPROACH SLAB REPLACEMENT, POLYMER CHIP SEAL, JOI",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z0E1SD0903108",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 21202025.7,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF JACKSON; GRADING, SURFACING, PIPE WORK,BRIDGE REHAB, MODIFY REST AREA, LIGHTING. ON I-90 :::: PROJECT DESCRIPTION: GRADING, PCC SURFACING, PIPE WORK, APPROACH SLABS, REMOVE AS",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2330067",
+      "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+      "amount": 19998055,
+      "agency": "National Science Foundation",
+      "startDate": "2024-07-01",
+      "description": "RESEARCH INFRASTRUCTURE: MID-SCALE RI-1 (M1:IP): THE NATIONAL QUANTUM NANOFAB -NEW QUANTUM TECHNOLOGIES ARE POISED TO TRANSFORM FIELDS OF BROAD SOCIETAL IMPACT IN COMPUTING, SENSING, AND COMMUNICATION",
+      "state": "CO"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NE11OE000073",
+      "recipient": "STATE OF MONTANA DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "amount": 19819804,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2022-12-01",
+      "description": "STRENGTHENING PUBLIC HEALTH INFRASTRUCTURE, WORKFORCE, AND DATA SYSTEMS IN MONTANA - A1 WORKFORCE THE MONTANA DEPARTMENT OF PUBLIC HEALTH AND HUMAN SERVICES (MT DPHHS) RESPECTFULLY SUBMITS AN APPLICAT",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "3840MM934",
+      "recipient": "DCN, LLC",
+      "amount": 19710574.47,
+      "agency": "Department of Commerce",
+      "startDate": "2023-07-01",
+      "description": "PURPOSE: THE PROJECT IS COMPOSED OF TWO ELEMENTS, ADDED MIDDLE MILE FIBER ROUTE MILES, AND UPGRADING ELECTRONICS TO SUPPORT THE INCREASED NETWORK DEMAND. THE FIRST ELEMENT, THE INCORPORATION OF THE NE",
+      "state": "ND"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y240WA9999879",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 19370833.73,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: 2023 EASTERN REGION CHIP SEAL - NORTH :::: PROJECT DESCRIPTION: CHIP SEAL",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ32640413",
+      "recipient": "RED LAKE BAND OF CHIPPEWA INDIANS",
+      "amount": 19281464,
+      "agency": "Department of Transportation",
+      "startDate": "2026-02-11",
+      "description": "FY25 BUILD - RED LAKE BAND OF CHIPPEWA INDIANS, MINNESOTA ''RED LAKE ROAD REHABILITATIONS AND SHARED USE PATH''",
+      "state": "MN"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WI2025122",
+      "recipient": "WISCONSIN DEPARTMENT OF TRANSPORTATION",
+      "amount": 18982500,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: CHIPPEWA FALLS - ABBOTSFORD KOSER AVE TO CTH D (EB & WB) CONSTRUCTION/RESURFACE LET - CONTRACT VIA BID LETTING :::: PROJECT DESCRIPTION: STH 029, 15.137 MILES, CHIPPEWA FALLS - ABBOTSFO",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y001CO0242092",
+      "recipient": "COLORADO DEPARTMENT OF TRANSPORTATION",
+      "amount": 18746645,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: US 24 ST - DIVIDE TO CHIPITA PARK :::: PROJECT DESCRIPTION: US 24 ST - DIVIDE TO CHIPITA PARK-US 24 - MP 278.30 TO MP 291.38 DIVIDE TO CHIPITA PARK-RESURFACING AND SAFETY UPDATES",
+      "state": "CO"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y110SD0908097",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 16123264.1,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF MCCOOK; RURAL INTERSTATE RECONSTRUCTION, REPLACE BRIDGE; STRUCTURE  ON THE FOLLOWING ROUTES 090W, 090E. :::: PROJECT DESCRIPTION: REMOVE AND REPLACE PCC, PIPE WORK, REPLACE ST",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ21930000Z001SD0299065",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 15229456.13,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF ROBERTS; PCC SURFACING; POLYMER CHIP SEAL, APPROACH SLABS, JOINT MODIFICATION, APPROACHES; ON THE FOLLOWING ROUTES: 029 N :::: PROJECT DESCRIPTION: PCC SURFACING; POLYMER CHIP",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22030000Z001SD0299069",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 15065803.56,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF ROBERTS; PCC SURFACING, SPOT GRADING; AC RESURFACING; LIGHTING; POLYMER CHIP SEAL; ON THE FOLLOWING ROUTES I-29 :::: PROJECT DESCRIPTION: PCC SURFACING OF MAINLINE, SPOT GRADI",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "00E04019",
+      "recipient": "LAC VIEUX DESERT BAND OF LAKE SUPERIOR CHIPPEWA INDIANS",
+      "amount": 14946563,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO LAC VIEUX DESERT BAND OF LAKE SUPERIOR CHIPPEWA INDIANS.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS  ",
+      "state": "MI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2315320",
+      "recipient": "ICAMR, INC.",
+      "amount": 14938671,
+      "agency": "National Science Foundation",
+      "startDate": "2024-03-01",
+      "description": "NSF ENGINES: CENTRAL FLORIDA SEMICONDUCTOR INNOVATION ENGINE -THIS NSF ENGINES AWARD TO THE CENTRAL FLORIDA SEMICONDUCTOR INNOVATION ENGINE WILL PLAY A CRITICAL ROLE IN BOLSTERING OUR NATION?S PRODUCT",
+      "state": "FL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "D24AC00039",
+      "recipient": "WASHINGTON UNIVERSITY, THE",
+      "amount": 14333912,
+      "agency": "Department of the Interior",
+      "startDate": "2024-02-07",
+      "description": "ENABLING TECHNOLOGIES FOR PHOTONIC CHIPS-BASED OPTICAL COHERENCE TOMOGRAPHY - ARPA-H",
+      "state": "MO"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "DECD0000075",
+      "recipient": "BAD RIVER BAND OF LAKE SUPERIOR TRIBE OF CHIPPEWA INDIANS",
+      "amount": 14081785,
+      "agency": "Department of Energy",
+      "startDate": "2024-08-15",
+      "description": "THIS PROJECT AIMS TO DEPLOY A HYBRID MINI-GRID TO BUILD ENERGY RESILIENCE IN COMMUNITIES THAT OFTEN \nFACE EXTREME WEATHER EVENTS AND POWER OUTAGES ALONG THE SHORES OF LAKE SUPERIOR. THE BAD RIVER BAND",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "U24HG012483",
+      "recipient": "OREGON HEALTH & SCIENCE UNIVERSITY",
+      "amount": 13677402,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2022-08-15",
+      "description": "MULTISPECIES NHP DGTEX RESEARCH CENTER - PROJECT SUMMARY THIS IS A PROPOSAL TO ESTABLISH A NONHUMAN PRIMATE DEVELOPMENTAL GENOTYPE-TISSUE EXPRESSION (NHP DGTEX) RESEARCH CENTER, DEVELOPED BY SCIENTIST",
+      "state": "OR"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001SD0014242",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 13633060.5,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF KINGSBURY; RUBBLIZE, AC SURFACING, PIPE WORK, APPROACH SLABS, POLYMER CHIP SEAL, WEIGH-IN MOTION, MODIFY INTERSECTION; ON THE FOLLOWING ROUT :::: PROJECT DESCRIPTION: RUBBLIZE",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22340000ER03CA37Y7001",
+      "recipient": "DEPARTMENT OF TRANSPORTATION CALIFORNIA",
+      "amount": 13159082.86,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: IN BUTTE COUNTY ON ROUTE 32, 70, 99, 149, AND 191 AT VARIES POSTMILE REMOVING/DISPOSING/CHIPPING HAZARD TREE AND DEBRIS; INSTALL EROSION CONTROL ON S :::: PROJECT DESCRIPTION: ON STATE ",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "DEAR0000848",
+      "recipient": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+      "amount": 12377750,
+      "agency": "Department of Energy",
+      "startDate": "2017-09-01",
+      "description": "UC SANTA BARBARA: UNDER THIS NEW ENLITENED AWARD, SANTA BARBARA WILL DEVELOP AND DEMONSTRATE A TECHNOLOGY PLATFORM INTEGRATING EFFICIENT PHOTONIC INTERFACES DIRECTLY INTO CHIP PACKAGES TO BREAK THROUG",
+      "state": null
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "W911NF2120017",
+      "recipient": "TELEDYNE SCIENTIFIC & IMAGING, LLC",
+      "amount": 12370442.27,
+      "agency": "Department of Defense",
+      "startDate": "2021-02-22",
+      "description": "CSAC 2.0: LOW COST, CHIP SCALE ATOMIC CLOCK (CSAC) FOR AFFORDABLE PRECISION TIMING IN DENIED ENVIRONMENTS",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "RM1GM139738",
+      "recipient": "CORNELL UNIVERSITY",
+      "amount": 12280909,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-04-01",
+      "description": "STRUCTURE, FUNCTION, AND DYNAMICS OF MACRO-MOLECULAR COMPLEXES THAT EXECUTE AND REGULATE GENOME FUNCTION - PROJECT SUMMARY/ABSTRACT THE GENETIC INFORMATION ENCODED IN OUR GENOME IS DECODED AND IMPLEME",
+      "state": "NY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2404323",
+      "recipient": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "amount": 12249999,
+      "agency": "National Science Foundation",
+      "startDate": "2024-07-01",
+      "description": "CATEGORY II: DEMOCRATIZING THE ACCELERATOR ECOSYSTEM FOR SCIENCE AND DISCOVERY -ACCELERATED COMPUTING HAS BECOME AN ESSENTIAL CAPABILITY FOR ADVANCING SCIENCE AND ENGINEERING. THE GROWTH OF ARTIFICIAL",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2124453",
+      "recipient": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "amount": 11999918,
+      "agency": "National Science Foundation",
+      "startDate": "2022-04-01",
+      "description": "EXPEDITIONS: DISCOVER: DESIGN AND INTEGRATION OF SUPERCONDUCTING COMPUTATION FOR VENTURES BEYOND EXASCALE REALIZATION -THE SUCCESS OF CMOS HAS OVERSHADOWED NEARLY ALL OTHER SOLID-STATE DEVICE INNOVATI",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "RM1HG011543",
+      "recipient": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "amount": 11992289,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-09-15",
+      "description": "CENTER FOR LIVE CELL GENOMICS - ABSTRACT CENTER FOR LIVE CELL GENOMICS WE WILL BUILD NEW METHODOLOGY AND CAPACITY FOR LARGE-SCALE, LONG-TERM, INEXPENSIVE, MODULAR, CUSTOMIZABLE, SHARED, INTERNET-OF-TH",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NA24NMFX463C0072",
+      "recipient": "GRAND TRAVERSE BAND OF OTTAWA AND CHIPPEWA INDIANS",
+      "amount": 11932139,
+      "agency": "Department of Commerce",
+      "startDate": "2024-09-01",
+      "description": "PURPOSE: THE GRAND TRAVERSE BAND OF OTTAWA AND CHIPPEWA INDIANS WILL BE AWARDED $11,932139 TO PRESERVE AND RESTORE COASTAL HABITAT ON MASHKIIGAKI, A PARCEL OF SACRED ANCESTRAL LAND ALONG WEST GRAND TR",
+      "state": "MI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2325080",
+      "recipient": "DUKE UNIVERSITY",
+      "amount": 11305249,
+      "agency": "National Science Foundation",
+      "startDate": "2023-09-01",
+      "description": "SOFTWARE-TAILORED ARCHITECTURE FOR QUANTUM CO-DESIGN (STAQ) -QUANTUM COMPUTERS HOLD GREAT PROMISE TO CATALYZE A NEW ERA OF COMPUTATIONAL POWER THAT WILL BENEFIT ALL OF SOCIETY. HOWEVER, QUANTUM COMPUT",
+      "state": "NC"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22030000Z001PAT112303",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF TRANSPORTATION",
+      "amount": 11297010.19,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: CONSTITUTION BOULEVARD - B51 :::: PROJECT DESCRIPTION: MILLING AND RESURFACING, SIGNAL UPDATES AND BRIDGE PRESERVATION ON SR 51 (CONSTITUTION BOULEVARD). FROM A POINT APPROXIMATELY 475 ",
+      "state": "PA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NH28CE003557",
+      "recipient": "FRANKLIN COUNTY BOARD OF COMMISSIONERS",
+      "amount": 11227500,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2023-09-01",
+      "description": "\"EMPOWERING COMMUNITIES BY BUILDING RESILIENCE\" - FRANKLIN COUNTY OD2A LOCAL 2023 - INTRODUCTION - FRANKLIN COUNTY PUBLIC HEALTH (FCPH) IS APPLYING FOR THE CDC’S OD2A LIMITING OVERDOSE THROUGH COLLABO",
+      "state": "OH"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "A18AV00245",
+      "recipient": "THE CHIPPEWA CREE TRIBE OF THE ROCKY BOY RESERVATION",
+      "amount": 11115651.49,
+      "agency": "Department of the Interior",
+      "startDate": "2017-10-01",
+      "description": "CHIPPEWA CREE TRIBE",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "A19AV00038",
+      "recipient": "THE CHIPPEWA CREE TRIBE OF THE ROCKY BOY RESERVATION",
+      "amount": 11100830.16,
+      "agency": "Department of the Interior",
+      "startDate": null,
+      "description": "THE CHIPPEWA CREE TRIBE OF THE ROCKY BOY RESERVATION",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "CA-2020-284",
+      "recipient": "ACCESS SERVICES",
+      "amount": 10934004,
+      "agency": "Department of Transportation",
+      "startDate": "2020-09-14",
+      "description": "APPLICATION PURPOSE: BUDGET REVISION #1 - CA-2020-284-01 LOS ANGELES UZA #60020 AND CA-2020-284-02 SANTA CLARITA UZA #61770 ADA VEHICLE REPLACEMENTBUDGET REVISION 1 FOR PROJECT CA-2020-284-01 AND CA-2",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22030000Z001SD0903106",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 10847764.71,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF JACKSON; GRADING, PCC SURFACING, PIPE WORK; BRIDGE REHABILITATION, REST AREA PARKING LOT IMPROVEMENT 090E AND 090 W. :::: PROJECT DESCRIPTION: GRADING, PCC SURFACING, PIPE WOR",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WYN211063",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 10752394,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: MUDDY GAP - CASPER / WYO 220 :::: PROJECT DESCRIPTION: MUDDY GAP - CASPER / WYO 220 / LEVEL, OVERLAY, AND BRIDGE REHABILITATION INVOLVING ASPHALT PAVING, CHIP SEALING, TRAFFIC CONTROL A",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001WI2024441",
+      "recipient": "WISCONSIN DEPARTMENT OF TRANSPORTATION",
+      "amount": 10324853.45,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: EAU CLAIRE - CHIPPEWA FALLS GOLF ROAD TO 40TH AVENUE CONSTRUCTION/PSRS20/CONCRETE REPAIR LET - CONTRACT VIA BID LETTING :::: PROJECT DESCRIPTION: USH 053, 8.975 MILES, EAU CLAIRE - CHIP",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001MT0372046",
+      "recipient": "MONTANA DEPARTMENT OF TRANSPORTATION",
+      "amount": 10229509.56,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: LAME DEER - EAST (CN & CE) NATIONAL HIGHWAY 37, ROSEBUD COUNTY, RESURFACE THE ROADWAY FROM REFERENCE POINT 42.2 TO 54.8 :::: PROJECT DESCRIPTION: CONSTRUCTION PROJECT FOR THE RESURFACIN",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "69A36525420460RCEWI",
+      "recipient": "CITY OF EAU CLAIRE",
+      "amount": 9999600,
+      "agency": "Department of Transportation",
+      "startDate": "2025-07-01",
+      "description": "THIS IS A FULL LIFE CYCLE PROJECT (EXCLUDING PE) THAT WILL ELIMINATE TWO AT-GRADE CROSSINGS, ONE VEHICLE CROSSING AND ONE PEDESTRIAN TRAIL CROSSING, AT THE INTERSECTION OF GALLOWAY STREET AND UNION PA",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2560IF2414",
+      "recipient": "ANALOG DEVICES, INC.",
+      "amount": 9979096.83,
+      "agency": "Department of Commerce",
+      "startDate": "2025-02-01",
+      "description": "PURPOSE: ANALOG DEVICES INTENDS TO ACCELERATE THE DEVELOPMENT OF 5NM COMPLEMENTARY METAL-OXIDE-SEMICONDUCTOR RADIO TRANSCEIVER ASIC (APPLICATION-SPECIFIC INTEGRATED CIRCUIT) COMPONENTS, SYSTEM-ON-CHIP",
+      "state": "MA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "5160IF2418",
+      "recipient": "DEEPSIG INC.",
+      "amount": 9964628.46,
+      "agency": "Department of Commerce",
+      "startDate": "2025-02-01",
+      "description": "PURPOSE: THE GOAL OF THIS PROJECT IS ADVANCING THE RAPID GROWTH AND DEPLOYMENT OF MASSIVE MULTIPLE INPUT, MULTIPLE OUTPUT (MMIMO) OPEN RADIO UNITS (O-RUS) INTO CURRENT AND FUTURE NETWORKS. ACTIVITIES ",
+      "state": "VA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001AR2122002",
+      "recipient": "ARKANSAS DEPARTMENT OF TRANSPORTATION",
+      "amount": 9952103.97,
+      "agency": "Department of Transportation",
+      "startDate": "2022-03-08",
+      "description": "PROJECT TITLE: WINCHESTER - CHICOT CO. LINE (SEL. SECS.) (S) :::: PROJECT DESCRIPTION: HIR/UTBWC/CHIP SEAL SHOULDERS; RUMBLE STRIPS",
+      "state": "AR"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "539999784Z240",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 9740186.49,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "2018 EASTERN REGION CHIP SEAL",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "U01DA053628",
+      "recipient": "YALE UNIV",
+      "amount": 9490616,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-05-15",
+      "description": "M-SCORCH: METHAMPHETAMINE USE DISORDER DATA GENERATION CENTER FOR SINGLE CELL OPIOID RESPONSES IN THE CONTEXT OF HIV - PROJECT SUMMARY HIV AND METHAMPHETAMINE (MA) USE ARE GLOBAL HEALTH PROBLEMS WITH ",
+      "state": "CT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "UG3NS123723",
+      "recipient": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "amount": 9482559,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-09-01",
+      "description": "THIN, HIGH-DENSITY, HIGH-PERFORMANCE, DEPTH AND SURFACE MICROELECTRODES FOR DIAGNOSIS AND TREATMENT OF EPILEPSY - ABSTRACT  THE GOAL OF THIS PROJECT IS TO SIGNIFICANTLY ADVANCE THE FIELD OF ACUTE AND ",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y240WA9999921",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 9369601.7,
+      "agency": "Department of Transportation",
+      "startDate": "2024-11-12",
+      "description": "PROJECT TITLE: NCR SEAL 2026 :::: PROJECT DESCRIPTION: RESURFACE DETERIORATING PAVEMENT WITH A CHIP SEAL OVERLAY.",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y240WA0508013",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 9352008.78,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: SR 508/S. FORK NEWAUKUM RIVER BR TO SR 7 - CHIP SEAL :::: PROJECT DESCRIPTION: REHABILITATE PAVEMENT WITH A CHIP SEAL OVERLAY",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001WYN431037",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 9348291.89,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: DOUGLAS - BILL / LIGHTNING CREEK / WY 59 :::: PROJECT DESCRIPTION: DOUGLAS - BILL / LIGHTNING CREEK / WY 59 / MILL & OVERLAY INVOLVING ASPHALT PAVING, STRUCTURE REHABILITATION, TRAFFIC ",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y001SD0908097",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 9136031.81,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF MCCOOK; RURAL INTERSTATE RECONSTRUCTION, REPLACE BRIDGE; STRUCTURE  ON THE FOLLOWING ROUTES 090W, 090E. :::: PROJECT DESCRIPTION: REMOVE AND REPLACE PCC, PIPE WORK, REPLACE ST",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WYN854086",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 9058885,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: LUSK - HAT CREEK / US 85 :::: PROJECT DESCRIPTION: LUSK - HAT CREEK / US 85 / NIOBRARA COUNTY RM 150.22 - 162.92 / MILL, LEVEL AND OVERLAY INVOLVING ASPHALT PAVING, CHIP SEAL, MILLING A",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JF72540034",
+      "recipient": "PORT ANGELES PORT OF",
+      "amount": 9000000,
+      "agency": "Department of Transportation",
+      "startDate": "2025-06-12",
+      "description": "AWARD PURPOSE THE PROJECT WILL FUND THE PURCHASE OF TWO REDUCED EMISSIONS MODERN LOG STACKERS TWO HYBRID MATERIAL HANDLERS AND A BULK CARGO CONVEYOR SYSTEM. ACTIVITIES TO BE PERFORMED COMPONENT 1PURCH",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "20237044040151",
+      "recipient": "COLLEGE OF THE MENOMINEE NATION",
+      "amount": 9000000,
+      "agency": "Department of Agriculture",
+      "startDate": "2023-06-01",
+      "description": "** AWARDS ISSUED PRIOR TO JANUARY 20, 2025, WERE FUNDED UNDER PREVIOUS ADMINISTRATIONS AND MAY NOT REFLECT THE PRIORITIES AND POLICIES OF THE CURRENT ADMINISTRATION.** THE LONG-TERM GOAL OF THIS PROJE",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "UM1HG009411",
+      "recipient": "HUDSONALPHA INSTITUTE FOR BIOTECHNOLOGY",
+      "amount": 8767130.23,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2017-02-01",
+      "description": "AN ENCODE CHIP-SEQ PIPELINE USING ENDOGENOUSLY TAGGED HUMAN DNA-ASSOCIATED PROTEINS",
+      "state": "AL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "L23AC00025",
+      "recipient": "TAHOE RESOURCE CONSERVATION DISTRICT",
+      "amount": 8705302,
+      "agency": "Department of the Interior",
+      "startDate": "2022-12-23",
+      "description": "THE TAHOE RESOURCE CONSERVATION DISTRICT (TAHOE RCD) WILL WORK WITH TAHOE BASIN FIRE PROTECTION DISTRICT PARTNERS TO DELIVER A COORDINATED LAKE TAHOE BASIN FIRE ADAPTED COMMUNITIES PROJECT, INCLUDING ",
+      "state": "NV"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "00E04018",
+      "recipient": "BAD RIVER BAND OF LAKE SUPERIOR TRIBE OF CHIPPEWA INDIANS",
+      "amount": 8385892,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-03",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE BAD RIVER BAND OF LAKE SUPERIOR CHIPPEWA. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS REDUCTION PRO",
+      "state": "WI"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y001WA0020212",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 8352946.19,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: SR 20 ET AL NCR 2023 SEAL AND PAVING :::: PROJECT DESCRIPTION: RESURFACING: CHIP SEAL AND HMA",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "P20GM139759",
+      "recipient": "UNIVERSITY OF NORTH DAKOTA",
+      "amount": 8302006,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-03-01",
+      "description": "INDIGENOUS TRAUMA & RESILIENCE RESEARCH CENTER - OVERALL PROJECT ABSTRACT INDIGENOUS POPULATIONS EXPERIENCE SIGNIFICANT TRAUMA-RELATED HEALTH DISPARITIES, INCLUDING ADDICTION, POST- TRAUMATIC STRESS D",
+      "state": "ND"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "MT-2022-022",
+      "recipient": "MONTANA DEPARTMENT OF TRANSPORTATION",
+      "amount": 8250190.38,
+      "agency": "Department of Transportation",
+      "startDate": "2022-08-22",
+      "description": "THIS APPLICATION REQUESTS FFY2020 AND FFY2021 SECTION 5311 RURAL FORMULA FUNDS IN THE AMOUNT OF $8250256 AND FFY2020 RTAP FUNDING IN THE AMOUNT OF $136617 ALL APPORTIONED TO THE STATE OF MONTANA FOR A",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z24EMOP211001",
+      "recipient": "MISSOURI DEPARTMENT OF TRANSPORTATION",
+      "amount": 8203183.51,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: PREVENTATIVE MAINTENANCE - CHIP SEAL ON VARIOUS RTES IN VARIOUS COUNTIES (STATEWIDE)   :::: PROJECT DESCRIPTION: PREVENTATIVE MAINTENANCE - CHIP SEAL ON VARIOUS RTES IN VARIOUS COUNTIES",
+      "state": "MO"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001MT0071166",
+      "recipient": "MONTANA DEPARTMENT OF TRANSPORTATION",
+      "amount": 8126495.75,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: DARBY - N & S (CN & CE) NATIONAL HIGHWAY 7, RAVALLI COUNTY, RESURFACE THE ROADWAY FROM REFERENCE POINT 25.8 TO 38.7 :::: PROJECT DESCRIPTION: CONSTRUCTION PROJECT FOR THE RESURFACING OF",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y608MT0331048",
+      "recipient": "MONTANA DEPARTMENT OF TRANSPORTATION",
+      "amount": 8061588.4,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: LAKE KOOCANUSA BRIDGE - N & S (CN & CE) PRIMARY ROUTE 33, LINCOLN COUNTY, RESURFACE ROADWAY FROM REFERENCE POINT 48.4 TO 54.9 :::: PROJECT DESCRIPTION: CONSTRUCTION PROJECT FOR RESURFAC",
+      "state": "MT"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z0E1WA9999856",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 8027080.2,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: US 101/ET AL CLALLAM, JEFFERSON, & MASON CO. - CHIP SEAL & BRIDGE REPAIR :::: PROJECT DESCRIPTION: CHIP SEAL AND BRIDGE REPAIRS ON SECTIONS OF US 101 AND SR 19",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WYN121117",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 7756512,
+      "agency": "Department of Transportation",
+      "startDate": "2020-04-23",
+      "description": "PROJECT TITLE: SAGE JUNCTION - KEMMERER ROAD / TWIN CREEK SECTION / US 30 / RESTORATION & REHAB :::: PROJECT DESCRIPTION: SAGE JUNCTION - KEMMERER ROAD / TWIN CREEK SECTION / US 30 - THE PROJECT BEGIN",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "CA-2023-127",
+      "recipient": "ACCESS SERVICES",
+      "amount": 7746426,
+      "agency": "Department of Transportation",
+      "startDate": "2023-07-14",
+      "description": "APPLICATION PURPOSE: ACCESS SERVICES USES THE CALACT/MBTA PURCHASING COOPERATIVE TO PROCURE VEHICLES. AS A RESULT OF THE PANDEMIC ALONG WITH THE SUPPLY CHAIN ISSUES CHIP SHORTAGES AND PRODUCTION STOPP",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y240WY0504020",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 7657560,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: GLENROCK / NORTH / ROSS ROAD / ROLLING HILLS EAST / WY 59 :::: PROJECT DESCRIPTION: GLENROCK / NORTH / ROSS ROAD / ROLLING HILLS EAST / WY 59 / MILL & OVERLAY INVOLVING ASPHALT PAVING, ",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y238AR2154001",
+      "recipient": "ARKANSAS DEPARTMENT OF TRANSPORTATION",
+      "amount": 7602594.47,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: SNOW LAKE - ELAINE (S) :::: PROJECT DESCRIPTION: SPOT FABRIC, LEVEL & SCRUB/FOG/CHIP SEAL",
+      "state": "AR"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y238FLD321015",
+      "recipient": "STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION",
+      "amount": 7584752,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: SR 10 (US 90) FROM SR 277 VERNON HWY TO END OF 4L E OF CHIPLEY;RESURFACING;CONSTRUCTION :::: PROJECT DESCRIPTION: SR 10 (US 90) FROM SR 277 VERNON HWY TO END OF 4L E OF CHIPLEY;RESURFAC",
+      "state": "FL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "UC7AI180261",
+      "recipient": "GEORGE MASON UNIVERSITY",
+      "amount": 7525547,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2023-08-18",
+      "description": "POSITIONING MASON'S REGIONAL BIOCONTAINMENT LABORATORY FOR EFFECTIVE PANDEMIC PREPAREDNESS - OVERALL CORE ABSTRACT GEORGE MASON UNIVERSITY (GMU) BIOMEDICAL LABORATORY (BRL) IS ONE OF 12 REGIONAL BIOCO",
+      "state": "VA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "98T36001",
+      "recipient": "SACRAMENTO METROPOLITAN AIR QUALITY MANAGEMENT DISTRICT",
+      "amount": 7070148,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-05-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS COOPERATIVE AGREEMENT IS TO PROVIDE ASSISTANCE TO THE SACRAMENTO METROPOLITAN AIR QUALITY MANAGEMENT DISTRICT (SMAQMD) TO COORDINATE AND PASSTHROUGH FUNDING TO THE EL D",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "CA-2023-223",
+      "recipient": "ACCESS SERVICES",
+      "amount": 7051359,
+      "agency": "Department of Transportation",
+      "startDate": "2023-09-07",
+      "description": "APPLICATION PURPOSE: ACCESS SERVICES USES THE CALACT/MBTA PURCHASING COOPERATIVE TO PROCURE VEHICLES. AS A RESULT OF THE PANDEMIC ALONG WITH THE SUPPLY CHAIN ISSUES CHIP SHORTAGES AND PRODUCTION STOPP",
+      "state": "CA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001SD0905109",
+      "recipient": "STATE OF SOUTH DAKOTA",
+      "amount": 6987755.17,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: COUNTY OF LYMAN; MILL, AC RESURFACING, PIPE WORK, POLYMER CHIP SEAL, LSDC OVERLAY, APPROACH SLABS; ON THE FOLLOWING ROUTES: 090 E, 090 W :::: PROJECT DESCRIPTION: MILL, AC RESURFACING, ",
+      "state": "SD"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001WYN132108",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6987594.43,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: DANIEL JUNCTION NORTH / 40 ROD FLAT SECTION / US 189/191 / MILL, LEVEL AND OVERLAY :::: PROJECT DESCRIPTION: DANIEL JUNCTION NORTH / 40 ROD FLAT SECTION / US 189/191 / CONSTRUCTION - BI",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y240WA0211012",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 6928897.91,
+      "agency": "Department of Transportation",
+      "startDate": "2025-09-15",
+      "description": "PROJECT TITLE: SR 211 US 2 TO SR 20 - PAVING :::: PROJECT DESCRIPTION: CHIP SEAL, BASIC SAFETY & COMPLETE STREETS",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ21930000Z240WA9999816",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 6920052.81,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "2019 EASTERN REGION CHIP SEAL",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001WYN132109",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6913339.57,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: FARSON - PINEDALE / COUNTY LINE NORTH / US 189/191 :::: PROJECT DESCRIPTION: FARSON - PINEDALE / COUNTY LINE NORTH / US 189/191 / CONSTRUCTION - BITUMINOUS SURFACING (RECYCLE), TRAFFIC ",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Z240MOP221001",
+      "recipient": "MISSOURI DEPARTMENT OF TRANSPORTATION",
+      "amount": 6896284.8,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE:  PREVENTATIVE MAINTENANCE - CHIP SEAL ON VARIOUS RTES IN VARIOUS COUNTIES (STATEWIDE) :::: PROJECT DESCRIPTION:  PREVENTATIVE MAINTENANCE - CHIP SEAL ON VARIOUS RTES IN VARIOUS COUNTIES",
+      "state": "MO"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "UH3CA265791",
+      "recipient": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+      "amount": 6827634.98,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-09-24",
+      "description": "THE 10,000 FAMILIES COHORT: A NEW STUDY TO UNDERSTAND THE ENVIRONMENTAL CAUSES OF CANCER - ABSTRACT THE 10,000 FAMILIES STUDY (10KFS) WILL BE A NEW, FAMILY-BASED COHORT STUDY IN MINNESOTA, THE ‘LAND O",
+      "state": "MN"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001WYN401018",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6720387.7,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: ORIN JUNCTION-LOST SPRINGS / US 18/20 / ORIN REST AREA :::: PROJECT DESCRIPTION: ORIN JUNCTION-LOST SPRINGS / US 18/20 / ORIN REST AREA - ORIN - LOST SPRINGS / ORIN REST AREA / CONSTRUC",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y240WY1610006",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6559149,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: WY 320 / WHEATLAND - DWYER / OVERLAY :::: PROJECT DESCRIPTION: MILL AND OVERLAY INVOLVING ASPHALT PAVING, CHIP SEAL, TRAFFIC CONTROL, FENCING AND MILLING WORK ON\nAPPROXIMATELY 12.30 MIL",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001WA0101396",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 6541490.57,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: US 101/E OF WISEN CREEK RD TO E OF SOL DUC HOT SPRINGS RD - CHIP SEAL :::: PROJECT DESCRIPTION: CHIP SEAL AND BRIDGE DECK AND EXPANSION JOINT REPAIRS",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "2229983",
+      "recipient": "THE PENNSYLVANIA STATE UNIVERSITY",
+      "amount": 6540608,
+      "agency": "National Science Foundation",
+      "startDate": "2022-09-01",
+      "description": "MICROELECTRONICS AND NANOMANUFACTURING PARTNERSHIP FOR VETERANS -THE UNITED STATES (U.S.) HAS BEEN EXPERIENCING A SEMICONDUCTOR CHIP SHORTAGE DUE IN PART TO THE PANDEMIC. THIS SHORTAGE HAS IMPACTED BU",
+      "state": "PA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001WA9999908",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 6534152.44,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: NCR CHIP SEAL 2024 :::: PROJECT DESCRIPTION: CHIP SEAL",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "R44TR001326",
+      "recipient": "HESPEROS, INC",
+      "amount": 6496067,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2016-09-01",
+      "description": "ADVANCED HUMAN ON A CHIP SYSTEMS FOR DRUG DISCOVERY",
+      "state": "FL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WYN272018",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6452619,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: GUERNSEY - FT LARAMIE / US 26 / PAVEMENT REHAB :::: PROJECT DESCRIPTION: GUERNSEY - FT LARAMIE / US 26 / PAVEMENT REHAB / OVERLAY AND CHIP SEAL INVOLVING ASPHALT PAVING, AGGREGATE SURFA",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z970WYN202070",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6363095.78,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: MUDDY GAP-LANDER/US 287/WY 789/SOUTH OF LANDER/CONSTRUCTION-BITUMINOUS PAVEMENT RESURFACING, CHIP SEAL, BRIDGE REHAB & MISC WORK :::: PROJECT DESCRIPTION: US 287/WY 789 BEGINNING AT RM ",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22430000Y001WYN303061",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6355177,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: DIVERSION DAM - RIVERTON AIRPORT SECTION / US 26 AND 287 :::: PROJECT DESCRIPTION: DIVERSION DAM - RIVERTON AIRPORT SECTION / LEVEL, OVERLAY & CHIP SEAL INVOLVING ASPHALT PAVING, AGGREG",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22130000Z2E2AK0809007",
+      "recipient": "ALASKA DEPARTMENT OF TRANSPORTATION & PUBLIC FACILITIES",
+      "amount": 6295077.51,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: LAKE LOUISE ROAD RESURFACING :::: PROJECT DESCRIPTION: CLARIFICATION 06/2021: RESURFACE LAKE LOUISE ROAD BETWEEN MILEPOST 9 - 19 WITH DOUBLE B/C CHIP ASPHALT SURFACE TREATMENT. PROJECT ",
+      "state": "AK"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "NH75OT000062",
+      "recipient": "FLORIDA DEPARTMENT OF HEALTH",
+      "amount": 6239720.79,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-06-01",
+      "description": "COVID-19 HEALTH EQUITY PROJECT IN JACKSONVILLE, FLORIDA - CDC?S NATIONAL INITIATIVE TO ADDRESS COVID-19 HEALTH DISPARITIES AMONG POPULATIONS AT HIGH RISK AND UNDERSERVED, INCLUDING RACIAL AND ETHNIC M",
+      "state": "FL"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Z240WA0240027",
+      "recipient": "WASHINGTON ST DEPARTMENT OF TRANSPORTATION",
+      "amount": 6234819.57,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: SR 240/SR 24 INTERSECTION VICINITY - PAVING :::: PROJECT DESCRIPTION: CHIP SEAL AND PAVING",
+      "state": "WA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22230000Y001WYN302056",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6189829.88,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: DUBOIS - DIVERSION DAM - US 26 & 287 PAVEMENT REHABILITATION :::: PROJECT DESCRIPTION: DUBOIS - DIVERSION DAM - US 26 & 287 PAVEMENT REHABILITATION - BEGINNING AT R.M. 72.13 EAST OF THE",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22330000Y001PAX112321",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF TRANSPORTATION",
+      "amount": 6174573,
+      "agency": "Department of Transportation",
+      "startDate": null,
+      "description": "PROJECT TITLE: I-376, ITS INSTALLATION - BEAVER COUNTY :::: PROJECT DESCRIPTION: INSTALL INTELLIGENT TRANSPORTATION SYSTEMS DEVICES ON I-376, FROM 2500 FEET NORTH OF THE ALLEGHENY/BEAVER COUNTY LINE T",
+      "state": "PA"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "693JJ22530000Y001WYN291067",
+      "recipient": "WYOMING DEPARTMENT OF TRANSPORTATION",
+      "amount": 6035601,
+      "agency": "Department of Transportation",
+      "startDate": "2021-09-13",
+      "description": "PROJECT TITLE: CODY - POWELL / POWELL EAST / US 14A :::: PROJECT DESCRIPTION: CODY - POWELL / POWELL EAST / US 14A - MILL/OVERLAY/CHIP/PMWC/ISO ADA",
+      "state": "WY"
+    },
+    {
+      "program": "CHIPS Act",
+      "awardId": "U01HG012079",
+      "recipient": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "amount": 6016057,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2021-09-01",
+      "description": "LEVERAGING GENETIC VARIATION TO DISSECT GENE REGULATORY NETWORKS OF REPROGRAMMING TO PLURIPOTENCY - PROJECT SUMMARY THE REPROGRAMMING OF SOMATIC HUMAN CELLS TO INDUCED PLURIPOTENT STEM CELLS (IPSCS) B",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84094001",
+      "recipient": "CLIMATE UNITED FUND",
+      "amount": 6970000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO CLIMATE UNITED (CU). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES AND OTHER AIR",
+      "state": "MD"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84094201",
+      "recipient": "COALITION FOR GREEN CAPITAL",
+      "amount": 5000000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO COALITION FOR GREEN CAPITAL (CGC). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES",
+      "state": "DC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84093901",
+      "recipient": "OPPORTUNITY FINANCE NETWORK",
+      "amount": 2290000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO OPPORTUNITY FINANCE NETWORK (OFN). THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDE",
+      "state": "PA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84096001",
+      "recipient": "POWER FORWARD COMMUNITIES, INC",
+      "amount": 2000000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO POWER FORWARD COMMUNITIES (PFC). THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOUSE GASES A",
+      "state": "MD"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84094301",
+      "recipient": "INCLUSIV, INC",
+      "amount": 1870000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO INCLUSIV. THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO WILL IN TURN FINAN",
+      "state": "NY"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84094101",
+      "recipient": "JUSTICE CLIMATE FUND, INC.",
+      "amount": 940000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO JUSTICE CLIMATE FUND, INC.  THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO ",
+      "state": "DC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEMS0000084",
+      "recipient": "GENERAL MOTORS LLC",
+      "amount": 500000000,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-01",
+      "description": "INFLATION REDUCTION ACT (IRA) ELECTRIC VEHICLE (EV) CONVERSION\n\nTHE RECIPIENT WILL CONVERT AN EXISTING VEHICLE ASSEMBLY FACILITY LOCATED IN THE UNITED STATES TO ELECTRIC VEHICLE (EV) PRODUCTION. THE C",
+      "state": "MI"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84094401",
+      "recipient": "APPALACHIAN COMMUNITY CAPITAL CORPORATION",
+      "amount": 500000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO APPALACHIAN COMMUNITY CAPITAL CORPORATION. THE RECIPIENT WILL UTILIZE THE FUNDING TO REDUCE EMISSIONS OF GREENHOU",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "97T15501",
+      "recipient": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+      "amount": 499997415,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (GHG",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "96275025",
+      "recipient": "PORT AUTHORITY OF NEW YORK & NEW JERSEY",
+      "amount": 451635800,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE PORT AUTHORITY OF NEW YORK AND NEW JERSEY. SPECIFICALLY, THE RECIPIENT WILL DEPLOY ZERO-EMISS",
+      "state": "NY"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00A01474",
+      "recipient": "DEPT OF ENERGY & ENVIRONMENTAL PROTECTION",
+      "amount": 450000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-11-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO CONNECTICUT DEPARTMENT OF ENERGY AND ENVIRONMENTAL PROTECTION (CT DEEP). THE RECIPIENT WILL IMPLE",
+      "state": "CT"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E03862",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 430251378,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO ILLINOIS ENVIRONMENTAL PROTECTION AGENCY.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS REDUCTION PROGRA",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "03D25824",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF NATURAL AND CULTURAL RESOURCES",
+      "amount": 421238074,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $421,238,074 TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE NORTH CAROLINA DEPARTMENT OF NATURAL AND CULTURAL RESOURCES. T",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "97T27601",
+      "recipient": "LOS ANGELES, CITY OF",
+      "amount": 411688296,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA), CLEAN PORTS PROGRAM (CPP) ZERO-EMISSION TECHNOLOGY DEPLOYMENT (ZE TECH) TO THE CITY OF LOS ANGELES ",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84096101",
+      "recipient": "NATIVE CDFI NETWORK INC",
+      "amount": 400000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO NATIVE CDFI NETWORK (NCN).  THE RECIPIENT WILL PROVIDE FUNDING AND TECHNICAL ASSISTANCE TO COMMUNITY LENDERS WHO ",
+      "state": "NE"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "953A0028",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 396108225,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE",
+      "state": "PA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000066",
+      "recipient": "COMPTROLLER OF PUBLIC ACCOUNTS",
+      "amount": 345324713,
+      "agency": "Department of Energy",
+      "startDate": "2024-07-01",
+      "description": "''DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL AS",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000122",
+      "recipient": "COMPTROLLER OF PUBLIC ACCOUNTS",
+      "amount": 344006590,
+      "agency": "Department of Energy",
+      "startDate": "2024-07-01",
+      "description": "''DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL AS",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEMS0000082",
+      "recipient": "FCA US LLC",
+      "amount": 334763050,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-15",
+      "description": "INFLATION REDUCTION ACT (IRA) -DARE FORWARD: FCA US CONVERSION OF BELVIDERE ASSEMBLY PLANT TO ELECTRIC VEHICLE ASSEMBLY COMPLEX FOR ELECTRIFICATION,\nTHE PROJECT ASPIRES TO RECONFIGURE THE BELVIDERE AS",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "97T26001",
+      "recipient": "PORT DEPARTMENT OF THE CITY OF OAKLAND",
+      "amount": 322167584,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE PORT DEPARTMENT OF THE CITY OF OAKLAND. SPECIFICALLY, THE RECIPIENT WILL IMPROVE AIR QUALITY AND RE",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "953A0068",
+      "recipient": "COMMONWEALTH OF VIRGINIA",
+      "amount": 313364200,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE VIRGINIA PORT AUTHORITY.  SPECIFICALLY, THE RECIPIENT WILL RETIRE AND SCRAP INTERNAL COMBUSTI",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "96718301",
+      "recipient": "NEBRASKA DEPARTMENT OF WATER, ENERGY, AND ENVIRONMENT",
+      "amount": 307000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE NEBRASKA DEPARTMENT OF ENVIRONMENT AND ENERGY. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (G",
+      "state": "NE"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEFE0032657",
+      "recipient": "COLORADO STATE UNIVERSITY",
+      "amount": 299999930,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-15",
+      "description": "INFLATION REDUCTION ACT (IRA) – METHANE EMISSIONS REDUCTION PROGRAM OIL AND GAS METHANE MONITORING AND MITIGATION. COLLABORATIVE APPROACH TO REDUCING EMISSIONS (CARE) FOR MARGINAL CONVENTIONAL WELLS. ",
+      "state": "CO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000024",
+      "recipient": "STATE OF CALIFORNIA ENERGY COMMISSION",
+      "amount": 291366906,
+      "agency": "Department of Energy",
+      "startDate": "2023-08-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000080",
+      "recipient": "STATE OF CALIFORNIA ENERGY COMMISSION",
+      "amount": 290252580,
+      "agency": "Department of Energy",
+      "startDate": "2023-08-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEMS0000155",
+      "recipient": "MERCEDES-BENZ VANS, LLC",
+      "amount": 284991852,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-01",
+      "description": "INFLATION REDUCTION ACT (IRA) - NEXT GENERATION ALL ELECTRIC VAN PRODUCTION\n\nTHE OBJECTIVE OF THE PROJECT IS TO CONVERT THE COMPANY’S U.S. FACILITY FROM INTERNAL COMBUSTION ENGINE (“ICE”) VAN PRODUCTI",
+      "state": "SC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEMS0000087",
+      "recipient": "FCA US LLC",
+      "amount": 249999999,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-15",
+      "description": "INFLATION REDUCTION ACT (IRA) - FCA US LLC CONVERSION OF INDIANA TRANSMISSION PLANT FOR ELECTRIC DRIVE MODULE PRODUCTION,\nTHIS PROJECT WILL ENABLE THE CONTINUOUS MANUFACTURING OF VEHICLE PROPULSION SY",
+      "state": "IN"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84092302",
+      "recipient": "CALIFORNIA PUBLIC UTILITIES COMMISSION",
+      "amount": 249800000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-06",
+      "description": "DESCRIPTION:THE AWARD REMOVES THE 2% FUNDING RESTRICTION FROM THE SOLAR FOR ALL AWARD AND INCORPORATES THE NECESSARY BUDGET AND WORKPLAN DOCUMENTATION.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLA",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84088901",
+      "recipient": "NEW YORK STATE ENERGY RESEARCH & DEVELOPMENT AUTHORITY",
+      "amount": 249800000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "NY"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84085801",
+      "recipient": "GRID ALTERNATIVES",
+      "amount": 249800000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84087701",
+      "recipient": "HARRIS COUNTY",
+      "amount": 249700000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84087901",
+      "recipient": "INCLUSIVE PROSPERITY CAPITAL INC",
+      "amount": 249300000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "CT"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84100901",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 248937720,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (",
+      "state": "NJ"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEFE0032658",
+      "recipient": "INSTITUTE OF GAS TECHNOLOGY",
+      "amount": 209999996,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-15",
+      "description": "INFLATION REDUCTION ACT (IRA) – WELL EMISSIONS AND LEAKAGE LIMITATION CHECK (WELL CHECK)\n\nTHE GOAL OF WELL CHECK IS TO ACCELERATE THE MITIGATION OF METHANE EMISSIONS FROM SMALL OPERATORS (SO), DEFINED",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEMS0000086",
+      "recipient": "VOLVO TECHNOLOGY OF AMERICA, LLC",
+      "amount": 208224054,
+      "agency": "Department of Energy",
+      "startDate": "2025-01-15",
+      "description": "INFLATION REDUCTION ACT (IRA) - A MANUFACTURING CONVERSION OF COMMERCIAL TRUCKS FROM FOSSIL FUEL TO ZERO EMISSIONS FOR MACK TRUCKS INCORPORATED  \n\nTHE PROPOSED PROJECT SCOPE WILL UPGRADE AND RE-EQUIP ",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E03864",
+      "recipient": "MINNESOTA POLLUTION CONTROL AGENCY",
+      "amount": 199999999,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO MINNESOTA POLLUTION CONTROL AGENCY. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS REDUCTION PROGRAMS, POL",
+      "state": "MN"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00I18200",
+      "recipient": "DENVER REGIONAL COUNCIL OF GOVERNMENTS",
+      "amount": 199705797,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-17",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE DENVER REGIONAL COUNCIL OF GOVERNMENTS (DRCOG).  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS ",
+      "state": "CO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84101101",
+      "recipient": "OREGON DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 197181796,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO OREGON DEPARTMENT OF ENVIRONMENTAL QUALITY.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (GHG) RE",
+      "state": "OR"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000029",
+      "recipient": "DEPARTMENT OF AGRICULTURE & CONSUMER SERVICES FLORIDA",
+      "amount": 173318260,
+      "agency": "Department of Energy",
+      "startDate": "2024-05-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL AS",
+      "state": "FL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000085",
+      "recipient": "DEPARTMENT OF AGRICULTURE & CONSUMER SERVICES FLORIDA",
+      "amount": 172657670,
+      "agency": "Department of Energy",
+      "startDate": "2024-05-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL AS",
+      "state": "FL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000053",
+      "recipient": "NEW YORK STATE ENERGY RESEARCH & DEVELOPMENT AUTHORITY",
+      "amount": 159021883,
+      "agency": "Department of Energy",
+      "startDate": "2023-10-01",
+      "description": "“DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 \n(IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL \nA",
+      "state": "NY"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000109",
+      "recipient": "NEW YORK STATE ENERGY RESEARCH & DEVELOPMENT AUTHORITY",
+      "amount": 158415850,
+      "agency": "Department of Energy",
+      "startDate": "2023-10-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 \n(IRA) 50121 OR 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR \nTEC",
+      "state": "NY"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84093001",
+      "recipient": "COMMERCE, WASHINGTON STATE DEPARTMENT OF",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "WA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84092501",
+      "recipient": "CLEAN ENERGY FUND OF TEXAS, INC.",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84092201",
+      "recipient": "STATE ENVIRONMENTAL IMPROVEMENT & ENERGY RESOURCES AUTHORITY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "MO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84092001",
+      "recipient": "EXECUTIVE OFFICE OF STATE OF ARIZONA",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "AZ"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091901",
+      "recipient": "NEVADA CLEAN ENERGY FUND",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "NV"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091701",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091601",
+      "recipient": "STATE OF LOUISIANA DEPARTMENT OF NATURAL RESOURCES",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "LA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091201",
+      "recipient": "OFICINA DE GERENCIA Y PRESUPUESTO",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "PR"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091101",
+      "recipient": "NEW JERSEY DEPARTMENT OF TREASURY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "NJ"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84090701",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.MI SOLAR FOR ALL PROGRAM INTENDS TO MAXIMIZE PARTICIPATION AMONG LOW-INCOME COMMUNITIES BY DELIVERING SOLAR, AND STORAGE IMPROVING E",
+      "state": "MI"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84090501",
+      "recipient": "ILLINOIS FINANCE AUTHORITY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84090401",
+      "recipient": "COLORADO ENERGY OFFICE",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "CO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84090201",
+      "recipient": "MASSACHUSETTS DEPARTMENT OF ENERGY RESOURCES",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "MA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089801",
+      "recipient": "THE VIRGINIA DEPARTMENT OF ENERGY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089701",
+      "recipient": "SOLAR AND ENERGY LOAN FUND OF ST. LUCIE COUNTY, INC.",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "FL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089601",
+      "recipient": "OHIO AIR QUALITY DEVELOPMENT AUTHORITY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089101",
+      "recipient": "ENERGY DEVELOPMENT AUTHORITY",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "PA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84088601",
+      "recipient": "DEPARTMENT OF ENVIRONMENT & CONSERVATION TENNESSEE",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "TN"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84088401",
+      "recipient": "OWEESTA CORP",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "CO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84087801",
+      "recipient": "ENERGY MINERALS & NATURAL RESOURCES DEPARTMENT",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "NM"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84087601",
+      "recipient": "GROWTH OPPORTUNITY PARTNERS, INC",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84086301",
+      "recipient": "GROUNDSWELL INC",
+      "amount": 156120000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "DC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84092601",
+      "recipient": "THE CAPITAL GOOD FUND INC",
+      "amount": 156010000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "GA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "953A0074",
+      "recipient": "MARYLAND PORT ADMINISTRATION",
+      "amount": 145658479,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO MARYLAND PORT ADMINISTRATION.  SPECIFICALLY, THE RECIPIENT WILL PROCURE NEW ZERO EMISSION (ZE) VE",
+      "state": "MD"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089301",
+      "recipient": "THREE AFFILIATED TRIBES",
+      "amount": 135580000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "ND"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DEFE0032423",
+      "recipient": "TEXAS COMMISSION ON ENVIRONMENTAL QUALITY",
+      "amount": 134151343,
+      "agency": "Department of Energy",
+      "startDate": "2023-12-01",
+      "description": "INFLATION REDUCTION ACT (IRA) - METHANE EMISSIONS REDUCTION PROGRAM FOR MARGINAL CONVENTIONAL WELLS - STATE OF TEXAS\n\nTHE OBJECTIVE OF THIS PROJECT IS TO MITIGATE METHANE EMISSIONS FROM MARGINAL CONVE",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000034",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 131952374,
+      "agency": "Department of Energy",
+      "startDate": "2024-07-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASS",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000090",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 131092470,
+      "agency": "Department of Energy",
+      "startDate": "2024-07-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "IL"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000060",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 129723107,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121.  SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASS",
+      "state": "PA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E03865",
+      "recipient": "CUYAHOGA COUNTY",
+      "amount": 129396997,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO CUYAHOGA COUNTY. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS REDUCTION PROGRAMS, POLICIES, PROJECTS, AN",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000116",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 129226380,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "PA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E03863",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 129104391,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY. THE RECIPIENT WILL IMPLEMENT GREENHOUS",
+      "state": "MI"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00I02300",
+      "recipient": "COLORADO ENERGY OFFICE",
+      "amount": 129008738,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-09",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE COLORADO ENERGY OFFICE (CEO). THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (GHG) REDUCTION PRO",
+      "state": "CO"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "953A0080",
+      "recipient": "DIAMOND STATE PORT",
+      "amount": 127510094,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-12-15",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO DIAMOND STATE PORT CORPORATION.#8239; SPECIFICALLY, THE RECIPIENT WILL IMPROVE AIR QUALITY AND REDUCE P",
+      "state": "DE"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000057",
+      "recipient": "OHIO DEPARTMENT OF DEVELOPMENT",
+      "amount": 124628229,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASS",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84088201",
+      "recipient": "STATE TREASURER, SOUTH CAROLINA",
+      "amount": 124440000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE TO LOW-INCOME AND DISADVANTAGED COMMUNITIES TO DEPLOY AND B",
+      "state": "SC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000113",
+      "recipient": "OHIO DEPARTMENT OF DEVELOPMENT",
+      "amount": 124150970,
+      "agency": "Department of Energy",
+      "startDate": "2023-08-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50121 OR  50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TEC",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84089401",
+      "recipient": "INDIANA COMMUNITY ACTION ASSOCIATION INC",
+      "amount": 117470000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "IN"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "97T26701",
+      "recipient": "STOCKTON PORT DISTRICT",
+      "amount": 110469349,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-02-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE STOCKTON PORT DISTRICT. SPECIFICALLY, THE RECIPIENT WILL REDUCE AIR POLLUTION AT THE PROJECT LOCATI",
+      "state": "CA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00I30300",
+      "recipient": "STATE OF UTAH DEPT OF ENVIRONMENTAL QUALITY",
+      "amount": 110000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-15",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE UTAH DEPARTMENT OF ENVIRONMENTAL QUALITY.#8239; SPECIFICALLY, THE RECIPIENT WILL IMPROVE AIR QUALIT",
+      "state": "UT"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000030",
+      "recipient": "GEORGIA ENVIRONMENTAL FINANCE AUTHORITY",
+      "amount": 109600726,
+      "agency": "Department of Energy",
+      "startDate": "2024-02-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL ASS",
+      "state": "GA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000086",
+      "recipient": "GEORGIA ENVIRONMENTAL FINANCE AUTHORITY",
+      "amount": 109178020,
+      "agency": "Department of Energy",
+      "startDate": "2024-02-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL ASS",
+      "state": "GA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000039",
+      "recipient": "STATE OF LOUISIANA DEPARTMENT OF NATURAL RESOURCES",
+      "amount": 106383841,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL ASS",
+      "state": "LA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84087501",
+      "recipient": "WEST VIRGINIA OFFICE OF ENERGY",
+      "amount": 106180000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:'NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.'\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE",
+      "state": "WV"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000095",
+      "recipient": "STATE OF LOUISIANA DEPARTMENT OF NATURAL RESOURCES",
+      "amount": 105972960,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL ASS",
+      "state": "LA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000043",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 105696321,
+      "agency": "Department of Energy",
+      "startDate": "2023-10-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 \n(IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL \nAS",
+      "state": "MI"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000099",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 105291160,
+      "agency": "Department of Energy",
+      "startDate": "2023-10-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 \n(IRA) 50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL \nAS",
+      "state": "MI"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "02F78201",
+      "recipient": "PORT OF CORPUS CHRISTI AUTHORITY OF NUECES COUNTY, TEXAS",
+      "amount": 105000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-13",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (USEPA) FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO THE PORT OF CORPUS CHRISTI AUTHORITY (PCCA)",
+      "state": "TX"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000054",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 104705557,
+      "agency": "Department of Energy",
+      "startDate": "2024-05-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL AS",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000110",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 104306840,
+      "agency": "Department of Energy",
+      "startDate": "2024-05-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) \n50122. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION, OR TECHNICAL AS",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "953A0032",
+      "recipient": "VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 99999999,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO VIRGINIA DEPARTMENT OF ENVIRONMENTAL QUALITY. THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (GHG) R",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "02F75801",
+      "recipient": "METROPLAN",
+      "amount": 99999999,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-16",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO METROPLAN.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (GHG) REDUCTION PROGRAMS, POLICIES, PROJE",
+      "state": "AR"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84084201",
+      "recipient": "RESEARCH TRIANGLE INSTITUTE",
+      "amount": 95000000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:RESEARCH TRIANGLE INSTITUTE (RTI) WILL UTILIZE THE SUBSEQUENT AWARD TOTALING $95,000,000 IN EJ TCGM FUNDING TO SERVE AS ONE OF ELEVEN GRANTMAKER ORGANIZATIONS THAT ARE CHARGED WITH IMPLEME",
+      "state": "NC"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000070",
+      "recipient": "THE VIRGINIA DEPARTMENT OF ENERGY",
+      "amount": 94347205,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E07000",
+      "recipient": "CLEVELAND CUYAHOGA COUNTY PORT AUTHORITY",
+      "amount": 94261128,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO CLEVELAND-CUYAHOGA COUNTY PORT AUTHORITY. SPECIFICALLY, THE RECIPIENT WILL IMPROVE AIR QUALITY AND REDU",
+      "state": "OH"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "DESE0000126",
+      "recipient": "THE VIRGINIA DEPARTMENT OF ENERGY",
+      "amount": 93987430,
+      "agency": "Department of Energy",
+      "startDate": "2023-09-01",
+      "description": "DEPARTMENT OF ENERGY, STATE AND COMMUNITY ENERGY PROGRAMS (SCEP): INFLATION REDUCTION ACT OF 2022 (IRA) 50121. SCEP SEEKS TO PROVIDE INITIAL GUIDANCE FOR THE PLANNING, ADMINISTRATION OR TECHNICAL ASSI",
+      "state": "VA"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "84091501",
+      "recipient": "HOPE ENTERPRISE CORPORATION",
+      "amount": 93670000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-05-01",
+      "description": "DESCRIPTION:NOTE: A SPECIAL PAYMENT CONDITION APPLIES TO THIS AWARD.\n\nTHIS AGREEMENT PROVIDES FUNDING UNDER THE INFLATION REDUCTION ACT. THE RECIPIENT WILL PROVIDE FINANCIAL AND TECHNICAL ASSISTANCE T",
+      "state": "AR"
+    },
+    {
+      "program": "IRA Clean Energy",
+      "awardId": "00E04027",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 92058008,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT TO THE ILLINOIS ENVIRONMENTAL PROTECTION AGENCY. SPECIFICALLY, THIS PROJECT WILL REDUCE GHG AND DIESEL EMI",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220725",
+      "recipient": "DEPARTMENT OF ENVIRONMENTAL CONSERVATION NEW YORK",
+      "amount": 271909000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T42601",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 268618000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS GRANT IS TO PROVIDE A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING ",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220724",
+      "recipient": "DEPARTMENT OF ENVIRONMENTAL CONSERVATION NEW YORK",
+      "amount": 251013000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "84100901",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 248937720,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AWARD IS TO PROVIDE FUNDING UNDER THE INFLATION REDUCTION ACT (IRA) TO NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION.  THE RECIPIENT WILL IMPLEMENT GREENHOUSE GAS (",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T11601",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 247974000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS GRANT IS TO PROVIDE A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING ",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03527",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 245934000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S25AF00100",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 245082772.3,
+      "agency": "Department of the Interior",
+      "startDate": "2025-01-01",
+      "description": "PROGRAM: BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS (BIL AML) PROGRAM (TITLE IV)AWARD PURPOSE: THE BIPARTISAN INFRASTRUCTURE LAW (BIL) (PUB. L. NO. 117-58), ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S23AF00002",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 244904081,
+      "agency": "Department of the Interior",
+      "startDate": "2022-11-01",
+      "description": "PROGRAM  BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS  BIL AML  PROGRAM  TITLE IV AWARD PURPOSE  THE BIPARTISAN INFRASTRUCTURE LAW  BIL   PUB. L. NO. 117-58 , ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S26AF00029",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 244786476,
+      "agency": "Department of the Interior",
+      "startDate": "2026-01-01",
+      "description": "PROGRAM:  INFRASTRUCTURE INVESTMENT AND JOBS ACT ABANDONED MINED LANDS (IIJA AML) PROGRAM (TITLE IV)AWARD PURPOSE:  THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PUB. L. NO. 117-58) WAS ENACTED O",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S24AF00026",
+      "recipient": "PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 244786476,
+      "agency": "Department of the Interior",
+      "startDate": "2023-11-01",
+      "description": "PROGRAM: BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS (BIL AML) PROGRAM (TITLE IV)AWARD PURPOSE: THE BIPARTISAN INFRASTRUCTURE LAW (BIL) (PUB. L. NO. 117-58), ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03527",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 239745000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO ILLINOIS ENVIRONMENTAL PROTECTION AGENCY SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58 AUTHORI",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220723",
+      "recipient": "DEPARTMENT OF ENVIRONMENTAL CONSERVATION NEW YORK",
+      "amount": 230068000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T77601",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 227150000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE CALIFORNIA STATE WATER RESOURCES CONTROL BOARD.  SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA)",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F48101",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 222155000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE TEXAS WATER DEVELOPMENT BOARD (TWDB) FOR THEIR DRINKING WATER STATE REVOLVING FUND (DWSRF) PROGRAM'S LEAD SERVICE LINE REPLACEMENT (LSLR) PROGRAM.  T",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220722",
+      "recipient": "DEPARTMENT OF ENVIRONMENTAL CONSERVATION NEW YORK",
+      "amount": 196443000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-07-07",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03243",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 190545000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-08-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F54002",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 183256000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "RHTCMS332044",
+      "recipient": "HEALTH CARE AUTHORITY",
+      "amount": 181257515.06,
+      "agency": "Department of Health and Human Services",
+      "startDate": "2025-12-29",
+      "description": "WASHINGTON STATE SUPPORTING THE INNOVATIVE DEVELOPMENT OF RURAL HEALTH CARE ACROSS PRIMARY AND SPECIALTY CARE, HOSPITALS, WORKFORCE DEVELOPMENT, TECHNOLOGY INVESTMENT, AND CHRONIC DISEASE MANAGEMENT. ",
+      "state": "WA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T42501",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 176186000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS GRANT IS FOR CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "03E03316",
+      "recipient": "INDIANA FINANCE AUTHORITY",
+      "amount": 170671000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "IN"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T84501",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 169115000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE STATE OF CALIFORNIA TO IMPLEMENT RESOURCES AND PRIORITIES TO HELP ADDRESS PER- AND POLYFLUORO",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F54001",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 167867000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE TEXAS WATER DEVELOPMENT BOARD (TWDB).  SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03243",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 166913000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-08-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO OHIO EPA. SAFE DRINKGING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58 AUTHORIZES THE STATE TO UTILIZE FUNDS",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T11801",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 162647000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS GRANT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGR",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95345301",
+      "recipient": "PENNVEST",
+      "amount": 160117000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T47501",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 158733000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT WILL PROVIDE FUNDS, AUTHORIZED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), TO CAPITALIZE THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) TO",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95324101",
+      "recipient": "PENNVEST",
+      "amount": 154956000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (AKA THE BIPARTISAN INFRASTRUCTURE LAW) FUNDED GRANT AGREEMENT PROVIDES FUNDING TO PENNSYLVANIA INFRASTRUCTURE INVESTMENT AUTHORITY (PENN",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "F24AC01102",
+      "recipient": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "amount": 154081633,
+      "agency": "Department of the Interior",
+      "startDate": "2024-05-01",
+      "description": "UNDER THIS COOPERATIVE AGREEMENT, THE NATIONAL FISH AND WILDLIFE FOUNDATION (NFWF) AND U.S. FISH AND WILDLIFE (FWS) WILL MANAGE YEAR THREE OF THE AMERICA THE BEAUTIFUL CHALLENGE (ATBC). UTILIZING FUND",
+      "state": null
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T77901",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 149075000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F23901",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 140993000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-09-01",
+      "description": "DESCRIPTION:SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AUTHORIZES THE STATE TO UTILIZE FUNDS TO FURTHER THE HEALTH PROTECTION OBJECTIVES OF SDWA. THIS AGREEMENT WILL PROVIDE FUNDS, AUTHORIZED ",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S23AF00013",
+      "recipient": "WEST VIRGINIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 140751469,
+      "agency": "Department of the Interior",
+      "startDate": "2022-10-01",
+      "description": "PROGRAM  BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS  BIL AML  PROGRAM  TITLE IV AWARD PURPOSE  THE BIPARTISAN INFRASTRUCTURE LAW  BIL   PUB. L. NO. 117-58 , ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "WV"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S25AF00185",
+      "recipient": "WEST VIRGINIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 140683878,
+      "agency": "Department of the Interior",
+      "startDate": "2025-10-01",
+      "description": "PROGRAM:  INFRASTRUCTURE INVESTMENT AND JOBS ACT ABANDONED MINED LANDS (IIJA AML) PROGRAM (TITLE IV)\n\nAWARD PURPOSE:  THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PUB. L. NO. 117-58) WAS ENACTED",
+      "state": "WV"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S25AF00103",
+      "recipient": "WEST VIRGINIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 140683878,
+      "agency": "Department of the Interior",
+      "startDate": "2024-10-01",
+      "description": "PROGRAM: BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS (BIL AML) PROGRAM (TITLE IV)AWARD PURPOSE: THE BIPARTISAN INFRASTRUCTURE LAW (BIL) (PUB. L. NO. 117-58), ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "WV"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S24AF00032",
+      "recipient": "WEST VIRGINIA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 140683878,
+      "agency": "Department of the Interior",
+      "startDate": "2023-10-01",
+      "description": "PROGRAM: BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS (BIL AML) PROGRAM (TITLE IV)AWARD PURPOSE: THE BIPARTISAN INFRASTRUCTURE LAW (BIL) (PUB. L. NO. 117-58), ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "WV"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "03E03345",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 138683000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2026-01-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220025",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 129179000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03345",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 128026000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T48001",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 127290000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "F23AC01655",
+      "recipient": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "amount": 124996660,
+      "agency": "Department of the Interior",
+      "startDate": "2023-07-01",
+      "description": "UNDER THIS COOPERATIVE AGREEMENT, THE NATIONAL FISH AND WILDLIFE FOUNDATION (NFWF) AND U.S. FISH AND WILDLIFE (FWS) WILL MANAGE YEAR TWO OF THE AMERICA THE BEAUTIFUL CHALLENGE (ATBC). UTILIZING FUNDIN",
+      "state": null
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220024",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 124039000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE NEW YORK STATE DEPARTMENT OF HEALTH UNDER THE SAFE DRINKING WATER ACT (SDWA). SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-5",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220324",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 123110000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03345",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 117343000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220825",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 116298000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220023",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 115781000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE NEW YORK STATE DEPARTMENT OF HEALTH UNDER THE SAFE DRINKING ACT, SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL117-58. SECTION 145",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F76701",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 114696000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE STATE OF TEXAS TO IMPLEMENT RESOURCES AND PRIORITIES TO HELP ADDRESS PER- AND POLYFLUOROALKYL",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "03E03241",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 111415000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220824",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 107363000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "00E03527",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 106964000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE ILLINOIS ENVIRONMENTAL PROTECTION AGENCY.  SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58 A",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "03E03282",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 105924000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "MI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F53902",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 103943000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03241",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 102852000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220525",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 100668000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "00E03345",
+      "recipient": "THE STATE OF OHIO OFFICE OF BUDGET AND MANAGEMENT",
+      "amount": 100195000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-01-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "OH"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "DEGD0000879",
+      "recipient": "PECO ENERGY COMPANY",
+      "amount": 100000000,
+      "agency": "Department of Energy",
+      "startDate": "2024-09-01",
+      "description": "BIPARTISAN INFRASTRUCTURE LAW (BIL) PECO CREATE PLAN: CREATING A RESILIENT, EQUITABLE AND ACCESSIBLE TRANSFORMATION IN ENERGY FOR GREATER PHILADELPHIA. THE OBJECTIVE OF THE PECO CREATE PLAN IS TO CATA",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "98T77701",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 99996000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE CALIFORNIA STATE WATER RESOURCES CONTROL BOARD (CASWRCB) UNDER THE SAFE DRINKING ACT: SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) ",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220823",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 98347000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO THE NEW YORK STATE DEPARTMENT OF HEALTH.  SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58 ",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03282",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 97784000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "MI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T42701",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 97636000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND PROGRAM (DW",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T11701",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 97636000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND PROGRAM (DW",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "953A0227",
+      "recipient": "PENNVEST",
+      "amount": 97582000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "NA22NOS4730208",
+      "recipient": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "amount": 96820677,
+      "agency": "Department of Commerce",
+      "startDate": "2022-06-01",
+      "description": "IN RESPONSE TO THE DIRECTION SET FORTH IN THE INFRASTRUCTURE INVESTMENTS AND JOBS ACT, 2022 (P.L. 117-58), THE NATIONAL FISH AND WILDLIFE FOUNDATION (NFWF) PROPOSES TO PARTNER WITH THE NATIONAL OCEANI",
+      "state": "DC"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "NA23NOS4730219",
+      "recipient": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "amount": 96790126,
+      "agency": "Department of Commerce",
+      "startDate": "2023-06-01",
+      "description": "IN RESPONSE TO THE DIRECTION SET FORTH IN THE INFRASTRUCTURE INVESTMENTS AND JOBS ACT, 2022 (P.L. 117-58), THE NATIONAL FISH AND WILDLIFE FOUNDATION (NFWF) PROPOSES TO CONTINUE THE PARTNERSHIP WITH TH",
+      "state": "DC"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F53901",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 95270000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-09-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03241",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 94270000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220524",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 92931000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95350001",
+      "recipient": "PENNVEST",
+      "amount": 90083000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D37925",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 89851000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS ACTION PROVIDES FUNDING IN THE AMOUNT OF $89,851,000 TO FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION TO SUPPORT THE DRINKING WATER STATE REVOLVING FUND (DWSRF) PROGRAM WHICH IS FUND",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D38123",
+      "recipient": "DEPARTMENT OF ENVIRONMENT & CONSERVATION TENNESSEE",
+      "amount": 89756000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $89,756,000 TO THE TENNESSEE DEPARTMENT OF ENVIRONMENT AND CONSERVATION. THIS AGREEMENT PROVIDES FUNDING UNDER THE SAFE DRINKING WATER ACT (S",
+      "state": "TN"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03282",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 89625000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR MICHIGAN'S CLEAN WATER STATE ",
+      "state": "MI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03335",
+      "recipient": "MINNESOTA PUBLIC FACILITIES AUTHORITY",
+      "amount": 88425000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-04-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "MN"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D65523",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 87550000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $87,550,000 UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION (FDEP) TO IMPLEMENT",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02E03409",
+      "recipient": "WISCONSIN DEPARTMENT OF NATURAL RESOURCES",
+      "amount": 87426000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "WI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95302301",
+      "recipient": "PENNVEST",
+      "amount": 87296000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-07-01",
+      "description": "DESCRIPTION:THIS INFRASTRUCTURE INVESTMENT AND JOBS ACT (COMMONLY REFERRED TO AS THE BIPARTISAN INFRASTRUCTURE LAW) FUNDED GRANT SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AUTHORIZES THE STATE",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "00I43100",
+      "recipient": "COLORADO DEPARTMENT OF PUBLIC HEALTH & ENVIRONMENT",
+      "amount": 85895000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE STATE OF COLORADO TO IMPLEMENT RESOURCES AND PRIORITIES TO HELP ADDRESS PER- AND POLYFLUOROAL",
+      "state": "CO"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220523",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 85178000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D38124",
+      "recipient": "DEPARTMENT OF ENVIRONMENT & CONSERVATION TENNESSEE",
+      "amount": 84997000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $84,997,000 TO THE TENNESSEE DEPARTMENT OF ENVIRONMENT AND CONSERVATION. THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRAS",
+      "state": "TN"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96279200",
+      "recipient": "NYS DEPARTMENT OF HEALTH",
+      "amount": 83708000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-01-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE STATE OF NEW YORK TO IMPLEMENT RESOURCES AND PRIORITIES TO HELP ADDRESS PER- AND POLY-FLUOROA",
+      "state": "NY"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "25000225",
+      "recipient": "MASSACHUSETTS CLEAN WATER TRUST",
+      "amount": 83639000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.\n\nACTIVIT",
+      "state": "MA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "NR227103XXXXC029",
+      "recipient": "ARKANSAS BLACK MAYORS ASSOCIATION",
+      "amount": 83619750,
+      "agency": "Department of Agriculture",
+      "startDate": "2022-09-20",
+      "description": "PROVIDE ASSISTANCE FOR PLANNING, DESIGN, <(>&<)> CONSTRUCTION IN THELICK CREEK/BIG CREEK, LONG LAKE/LITTLE BEE BAYOU, CITY OF PINE BLUFF,CITY OF CAMDEN, <(>&<)> CITIES OF FORREST CITY-HAYNES-MARIANNAW",
+      "state": "AR"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D38025",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 83155000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS ACTION PROVIDES FUNDING IN THE AMOUNT OF  OF $83,155,000 TO SUPPORT THE FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION'S CLEAN WATER STATE REVOLVING FUND PROGRAM. THIS CAPITALIZATION ",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "96220323",
+      "recipient": "NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 82971000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION. SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-",
+      "state": "NJ"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "97T15801",
+      "recipient": "STATE OF CALIFORNIA WATER RESOURCES CONTROL BOARD",
+      "amount": 82961000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-10-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING UNDER THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) TO THE STATE OF CALIFORNIA TO IMPLEMENT RESOURCES AND PRIORITIES TO HELP ADDRESS PER- AND POLYFLUORO",
+      "state": "CA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D37924",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 82948000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES FUNDING IN THE AMOUNT OF $82,948,000.00 TO FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION. THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "03D11123",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 82898400,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES AN AWARD IN THE AMOUNT OF $87,290,000 TO NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY UNDER THE SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE I",
+      "state": "NC"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95324301",
+      "recipient": "PENNVEST",
+      "amount": 82566000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58) (COMMONLY REFERRED TO AS THE BIPARTISAN INFRASTRUCTURE ",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "953A0207",
+      "recipient": "PENNVEST",
+      "amount": 82141000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F23801",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 81347000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-09-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "F22AC03364",
+      "recipient": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+      "amount": 81300000,
+      "agency": "Department of the Interior",
+      "startDate": "2022-08-06",
+      "description": "UNDER THIS COOPERATIVE AGREEMENT, THE NATIONAL FISH AND WILDLIFE FOUNDATION  NFWF  AND U S  FISH AND WILDLIFE  FWS  WILL MANAGE THE NEWLY DEVELOPED AMERICA THE BEAUTIFUL CHALLENGE  ATBC   AUTHORIZED B",
+      "state": null
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "01E03409",
+      "recipient": "WISCONSIN DEPARTMENT OF NATURAL RESOURCES",
+      "amount": 81203000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO WISCONSIN DEPARTMENT OF NATURAL RESOURCES (WIDNR). SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-",
+      "state": "WI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "00E03241",
+      "recipient": "ILLINOIS ENVIRONMENTAL PROTECTION AGENCY",
+      "amount": 80494000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-07-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02F48102",
+      "recipient": "TEXAS WATER DEVELOPMENT BOARD",
+      "amount": 78169000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-09-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO TEXAS WATER DEVELOPMENT BOARD (TWDB).  SAFE DRINKING WATER ACT (SDWA): SECTION 1452 AND INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) PL 117-58 AUTHORIZE",
+      "state": "TX"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "25000224",
+      "recipient": "MASSACHUSETTS CLEAN WATER TRUST",
+      "amount": 77212000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT FUNDS A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S CLEAN WATER STATE REVOLVING FUND PROGRAM.ACTIVITIE",
+      "state": "MA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D38024",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 76765000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES FUNDING IN THE AMOUNT OF $76,765,000 TO SUPPORT THE FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION'S CLEAN WATER STATE REVOLVING FUND PROGRAM. THIS CAPITALIZATION GRAN",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "00E03282",
+      "recipient": "MICHIGAN DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY",
+      "amount": 76528000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2022-10-01",
+      "description": "DESCRIPTION:THE PURPOSE OF THIS AGREEMENT IS FOR A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), WHICH PROVIDES FUNDS FOR THE RECIPIENT'S CLEAN WATER S",
+      "state": "MI"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D68324",
+      "recipient": "NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY",
+      "amount": 76201000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2025-07-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES FUNDING IN THE AMOUNT OF $76,201,000 TO NORTH CAROLINA DEPARTMENT OF ENVIRONMENTAL QUALITY. THE PURPOSE OF THIS PROJECT IS TO PROVIDE CAPITALIZATION GRANTS, FUNDED BY ",
+      "state": "NC"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S24AF00031",
+      "recipient": "DEPARTMENT OF NATURAL RESOURCES ILLINOIS",
+      "amount": 76023062.3,
+      "agency": "Department of the Interior",
+      "startDate": "2023-12-01",
+      "description": "PROGRAM:  BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS (BIL AML) PROGRAM (TITLE IV)AWARD PURPOSE:  THE BIPARTISAN INFRASTRUCTURE LAW (BIL) (PUB. L. NO. 117-58), ALSO KNOWN AS THE INFRASTRUCTURE",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "95345101",
+      "recipient": "PENNVEST",
+      "amount": 75829000,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2024-07-01",
+      "description": "DESCRIPTION:THIS AGREEMENT PROVIDES A CAPITALIZATION GRANT, FUNDED BY THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PL 117-58), FOR THE RECIPIENT'S DRINKING WATER STATE REVOLVING FUND (DWSRF) PRO",
+      "state": "PA"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "02D37923",
+      "recipient": "FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "amount": 75825430,
+      "agency": "Environmental Protection Agency",
+      "startDate": "2023-07-01",
+      "description": "DESCRIPTION:THIS ACTION APPROVES FUNDING IN THE AMOUNT OF $75,825,430 TO FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION. SECTION 1452 OF THE SAFE DRINKING WATER ACT (SDWA) AND INFRASTRUCTURE INVESTMEN",
+      "state": "FL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S23AF00016",
+      "recipient": "DEPARTMENT OF NATURAL RESOURCES ILLINOIS",
+      "amount": 75763148,
+      "agency": "Department of the Interior",
+      "startDate": "2022-12-01",
+      "description": "PROGRAM  BIPARTISAN INFRASTRUCTURE LAW ABANDONED MINED LANDS  BIL AML  PROGRAM  TITLE IV AWARD PURPOSE  THE BIPARTISAN INFRASTRUCTURE LAW  BIL   PUB. L. NO. 117-58 , ALSO KNOWN AS THE INFRASTRUCTURE I",
+      "state": "IL"
+    },
+    {
+      "program": "Infrastructure (IIJA)",
+      "awardId": "S26AF00008",
+      "recipient": "DEPARTMENT OF NATURAL RESOURCES ILLINOIS",
+      "amount": 75726766,
+      "agency": "Department of the Interior",
+      "startDate": "2025-10-01",
+      "description": "PROGRAM:  INFRASTRUCTURE INVESTMENT AND JOBS ACT ABANDONED MINED LANDS (IIJA AML) PROGRAM (TITLE IV)\n\nAWARD PURPOSE:  THE INFRASTRUCTURE INVESTMENT AND JOBS ACT (IIJA) (PUB. L. NO. 117-58) WAS ENACTED",
+      "state": "IL"
+    }
+  ]
+}
